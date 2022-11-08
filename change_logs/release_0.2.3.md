@@ -18,4 +18,4 @@ Thank you so much for your support!!
 
 ## Resolved Bugs
 
-+ [Issue #109](https://github.com/kswapd/k9s/issues/109)
++ [Issue #109](https://github.com/kswapd/k10s/issues/109)

@@ -22,7 +22,7 @@ Maintenance Release!
 
 ## Resolved Bugs/Features/PRs
 
-* [Issue #756](https://github.com/kswapd/k9s/issues/756)
+* [Issue #756](https://github.com/kswapd/k10s/issues/756)
 
 ---
 

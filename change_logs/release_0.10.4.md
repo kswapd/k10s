@@ -18,8 +18,8 @@ Maintenance release!
 
 ## Resolved Bugs/Features
 
-* [Issue #456](https://github.com/kswapd/k9s/issues/456)
-* [Issue #452](https://github.com/kswapd/k9s/issues/452)
+* [Issue #456](https://github.com/kswapd/k10s/issues/456)
+* [Issue #452](https://github.com/kswapd/k10s/issues/452)
 
 ---
 

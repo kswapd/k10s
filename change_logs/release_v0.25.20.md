@@ -20,8 +20,8 @@ Hoy!! Cleaning up the kitchen countertops ;( Thank you all for piping in on the 
 
 ## Resolved Issues
 
-* [Issue #1620](https://github.com/kswapd/k9s/issues/1620) popeye view shows duplicate pdb
-* [Issue #1616](https://github.com/kswapd/k9s/issues/1616) Age in nodes view are n/a
+* [Issue #1620](https://github.com/kswapd/k10s/issues/1620) popeye view shows duplicate pdb
+* [Issue #1616](https://github.com/kswapd/k10s/issues/1616) Age in nodes view are n/a
 
 ---
 

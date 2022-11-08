@@ -33,9 +33,9 @@ k9s:
 
 ## Resolved Issues
 
-* [Issue #1169](https://github.com/kswapd/k9s/issues/1169) Scaling last deployment errors out
-* [Issue #1167](https://github.com/kswapd/k9s/issues/1167) Cronjob trigger busted
-* [Issue #1163](https://github.com/kswapd/k9s/issues/1163) Color for autocomplete text
+* [Issue #1169](https://github.com/kswapd/k10s/issues/1169) Scaling last deployment errors out
+* [Issue #1167](https://github.com/kswapd/k10s/issues/1167) Cronjob trigger busted
+* [Issue #1163](https://github.com/kswapd/k10s/issues/1163) Color for autocomplete text
 
 ---
 

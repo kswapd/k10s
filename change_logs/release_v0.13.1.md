@@ -30,8 +30,8 @@ Still work in progress... so please proceed with caution!
 
 ## Resolved Bugs/Features
 
-* [Issue #498](https://github.com/kswapd/k9s/issues/498)
-* [Issue #497](https://github.com/kswapd/k9s/issues/497)
+* [Issue #498](https://github.com/kswapd/k10s/issues/498)
+* [Issue #497](https://github.com/kswapd/k10s/issues/497)
 
 ---
 

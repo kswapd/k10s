@@ -17,14 +17,14 @@ As you may know k9s is not pimped out by a big corporation with deep pockets. It
 
 ---
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/kswapd/k9s?)](https://goreportcard.com/report/github.com/kswapd/k9s)
-[![golangci badge](https://github.com/golangci/golangci-web/blob/master/src/assets/images/badge_a_plus_flat.svg)](https://golangci.com/r/github.com/kswapd/k9s)
+[![Go Report Card](https://goreportcard.com/badge/github.com/kswapd/k10s?)](https://goreportcard.com/report/github.com/kswapd/k10s)
+[![golangci badge](https://github.com/golangci/golangci-web/blob/master/src/assets/images/badge_a_plus_flat.svg)](https://golangci.com/r/github.com/kswapd/k10s)
 [![codebeat badge](https://codebeat.co/badges/89e5a80e-dfe8-4426-acf6-6be781e0a12e)](https://codebeat.co/projects/github-com-derailed-k9s-master)
 [![Build Status](https://travis-ci.com/derailed/k9s.svg?branch=master)](https://travis-ci.com/derailed/k9s)
 [![Docker Repository on Quay](https://quay.io/repository/derailed/k9s/status "Docker Repository on Quay")](https://quay.io/repository/derailed/k9s)
-[![release](https://img.shields.io/github/release-pre/derailed/k9s.svg)](https://github.com/kswapd/k9s/releases)
+[![release](https://img.shields.io/github/release-pre/derailed/k9s.svg)](https://github.com/kswapd/k10s/releases)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/mum4k/termdash/blob/master/LICENSE)
-[![Releases](https://img.shields.io/github/downloads/derailed/k9s/total.svg)](https://github.com/kswapd/k9s/releases)
+[![Releases](https://img.shields.io/github/downloads/derailed/k9s/total.svg)](https://github.com/kswapd/k10s/releases)
 
 ---
 
@@ -45,7 +45,7 @@ Wanna discuss K9s features with your fellow `K9sers` or simply show your support
 
 K9s is available on Linux, macOS and Windows platforms.
 
-* Binaries for Linux, Windows and Mac are available as tarballs in the [release](https://github.com/kswapd/k9s/releases) page.
+* Binaries for Linux, Windows and Mac are available as tarballs in the [release](https://github.com/kswapd/k10s/releases) page.
 
 * Via [Homebrew](https://brew.sh/) for macOS or Linux
 
@@ -87,7 +87,7 @@ K9s is available on Linux, macOS and Windows platforms.
 
   ```shell
   # NOTE: The dev version will be in effect!
-  go install github.com/kswapd/k9s@latest
+  go install github.com/kswapd/k10s@latest
   ```
 
 * Via [Webi](https://webinstall.dev) for Linux and macOS
@@ -853,7 +853,7 @@ k9s:
 
 Without the contributions from these fine folks, this project would be a total dud!
 
-<a href="https://github.com/kswapd/k9s/graphs/contributors">
+<a href="https://github.com/kswapd/k10s/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=derailed/k9s" />
 </a>
 

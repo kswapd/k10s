@@ -47,7 +47,7 @@ k9s:
 
 ## Resolved Bugs/Features/PRs
 
-* [Issue #795](https://github.com/kswapd/k9s/issues/795)
+* [Issue #795](https://github.com/kswapd/k10s/issues/795)
 
 ---
 
