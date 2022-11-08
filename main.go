@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 
-	"github.com/derailed/k9s/cmd"
+	"github.com/kswapd/k11s/cmd"
 	_ "k8s.io/client-go/plugin/pkg/client/auth"
 	"k8s.io/klog/v2"
 )

@@ -23,7 +23,7 @@ Maintenance Release!
 
 ## Resolved Bugs/Features/PRs
 
-* [Issue #719](https://github.com/derailed/k9s/issues/719)
+* [Issue #719](https://github.com/kswapd/k11s/issues/719)
 
 ---
 

@@ -1,4 +1,4 @@
-module github.com/derailed/k9s
+module github.com/kswapd/k11s
 
 go 1.18
 
