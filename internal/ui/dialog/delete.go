@@ -1,9 +1,9 @@
 package dialog
 
 import (
-	"github.com/kswapd/k9s/internal/config"
-	"github.com/kswapd/k9s/internal/ui"
 	"github.com/derailed/tview"
+	"github.com/kswapd/k10s/internal/config"
+	"github.com/kswapd/k10s/internal/ui"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 )
 

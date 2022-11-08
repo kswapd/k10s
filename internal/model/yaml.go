@@ -10,10 +10,10 @@ import (
 	"time"
 
 	backoff "github.com/cenkalti/backoff/v4"
-	"github.com/kswapd/k9s/internal"
-	"github.com/kswapd/k9s/internal/client"
-	"github.com/kswapd/k9s/internal/dao"
-	"github.com/kswapd/k9s/internal/render"
+	"github.com/kswapd/k10s/internal"
+	"github.com/kswapd/k10s/internal/client"
+	"github.com/kswapd/k10s/internal/dao"
+	"github.com/kswapd/k10s/internal/render"
 	"github.com/rs/zerolog/log"
 	"github.com/sahilm/fuzzy"
 )

@@ -4,10 +4,11 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/rs/zerolog/log"
 	"strings"
 
-	"github.com/kswapd/k9s/internal/client"
+	"github.com/rs/zerolog/log"
+
+	"github.com/kswapd/k10s/internal/client"
 	metav1beta1 "k8s.io/apimachinery/pkg/apis/meta/v1beta1"
 )
 

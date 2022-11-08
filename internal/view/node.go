@@ -8,10 +8,10 @@ import (
 	"time"
 
 	"github.com/gdamore/tcell/v2"
-	"github.com/kswapd/k9s/internal/client"
-	"github.com/kswapd/k9s/internal/dao"
-	"github.com/kswapd/k9s/internal/ui"
-	"github.com/kswapd/k9s/internal/ui/dialog"
+	"github.com/kswapd/k10s/internal/client"
+	"github.com/kswapd/k10s/internal/dao"
+	"github.com/kswapd/k10s/internal/ui"
+	"github.com/kswapd/k10s/internal/ui/dialog"
 	"github.com/rs/zerolog/log"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 )

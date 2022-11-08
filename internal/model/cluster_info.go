@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/kswapd/k9s/internal/client"
-	"github.com/kswapd/k9s/internal/dao"
+	"github.com/kswapd/k10s/internal/client"
+	"github.com/kswapd/k10s/internal/dao"
 	"github.com/rs/zerolog/log"
 	"k8s.io/apimachinery/pkg/util/cache"
 )

@@ -8,12 +8,12 @@ import (
 
 	"github.com/derailed/tview"
 	"github.com/gdamore/tcell/v2"
-	"github.com/kswapd/k9s/internal"
-	"github.com/kswapd/k9s/internal/client"
-	"github.com/kswapd/k9s/internal/dao"
-	"github.com/kswapd/k9s/internal/model"
-	"github.com/kswapd/k9s/internal/perf"
-	"github.com/kswapd/k9s/internal/ui"
+	"github.com/kswapd/k10s/internal"
+	"github.com/kswapd/k10s/internal/client"
+	"github.com/kswapd/k10s/internal/dao"
+	"github.com/kswapd/k10s/internal/model"
+	"github.com/kswapd/k10s/internal/perf"
+	"github.com/kswapd/k10s/internal/ui"
 	"github.com/rs/zerolog/log"
 )
 

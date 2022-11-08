@@ -14,8 +14,8 @@ import (
 	"time"
 
 	"github.com/fatih/color"
-	"github.com/kswapd/k9s/internal/client"
-	"github.com/kswapd/k9s/internal/config"
+	"github.com/kswapd/k10s/internal/client"
+	"github.com/kswapd/k10s/internal/config"
 	"github.com/rs/zerolog/log"
 	v1 "k8s.io/api/core/v1"
 	kerrors "k8s.io/apimachinery/pkg/api/errors"

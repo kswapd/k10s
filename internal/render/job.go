@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/kswapd/k9s/internal/client"
+	"github.com/kswapd/k10s/internal/client"
 	batchv1 "k8s.io/api/batch/v1"
 	v1 "k8s.io/api/core/v1"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"

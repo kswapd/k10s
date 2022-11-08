@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/kswapd/k9s/internal/config"
-	"github.com/kswapd/k9s/internal/ui"
 	"github.com/derailed/tview"
 	"github.com/gdamore/tcell/v2"
+	"github.com/kswapd/k10s/internal/config"
+	"github.com/kswapd/k10s/internal/ui"
 )
 
 // ShowConfirm pops a confirmation dialog.

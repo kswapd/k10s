@@ -1,7 +1,7 @@
 package config
 
 import (
-	"github.com/kswapd/k9s/internal/client"
+	"github.com/kswapd/k10s/internal/client"
 )
 
 const (

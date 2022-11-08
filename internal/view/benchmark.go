@@ -7,11 +7,11 @@ import (
 	"strings"
 
 	"github.com/gdamore/tcell/v2"
-	"github.com/kswapd/k9s/internal"
-	"github.com/kswapd/k9s/internal/client"
-	"github.com/kswapd/k9s/internal/config"
-	"github.com/kswapd/k9s/internal/perf"
-	"github.com/kswapd/k9s/internal/ui"
+	"github.com/kswapd/k10s/internal"
+	"github.com/kswapd/k10s/internal/client"
+	"github.com/kswapd/k10s/internal/config"
+	"github.com/kswapd/k10s/internal/perf"
+	"github.com/kswapd/k10s/internal/ui"
 )
 
 // Benchmark represents a service benchmark results view.

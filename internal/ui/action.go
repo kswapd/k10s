@@ -3,8 +3,8 @@ package ui
 import (
 	"sort"
 
-	"github.com/kswapd/k9s/internal/model"
 	"github.com/gdamore/tcell/v2"
+	"github.com/kswapd/k10s/internal/model"
 	"github.com/rs/zerolog/log"
 )
 

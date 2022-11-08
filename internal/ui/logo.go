@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/kswapd/k9s/internal/config"
 	"github.com/derailed/tview"
+	"github.com/kswapd/k10s/internal/config"
 )
 
 // Logo represents a K9s logo.

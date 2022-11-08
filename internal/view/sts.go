@@ -3,9 +3,9 @@ package view
 import (
 	"errors"
 
-	"github.com/kswapd/k9s/internal/client"
-	"github.com/kswapd/k9s/internal/dao"
-	"github.com/kswapd/k9s/internal/ui"
+	"github.com/kswapd/k10s/internal/client"
+	"github.com/kswapd/k10s/internal/dao"
+	"github.com/kswapd/k10s/internal/ui"
 	appsv1 "k8s.io/api/apps/v1"
 )
 

@@ -8,10 +8,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/kswapd/k9s/internal/client"
-	"github.com/kswapd/k9s/internal/config"
-	"github.com/kswapd/k9s/internal/render"
-	"github.com/kswapd/k9s/internal/ui"
+	"github.com/kswapd/k10s/internal/client"
+	"github.com/kswapd/k10s/internal/config"
+	"github.com/kswapd/k10s/internal/render"
+	"github.com/kswapd/k10s/internal/ui"
 	"github.com/rs/zerolog/log"
 )
 

@@ -3,13 +3,14 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/kswapd/k9s/internal/color"
-	"github.com/kswapd/k9s/internal/config"
-	"github.com/kswapd/k9s/internal/ui"
+	"os"
+
+	"github.com/kswapd/k10s/internal/color"
+	"github.com/kswapd/k10s/internal/config"
+	"github.com/kswapd/k10s/internal/ui"
 	"github.com/rs/zerolog/log"
 	"github.com/spf13/cobra"
 	"gopkg.in/yaml.v2"
-	"os"
 )
 
 func infoCmd() *cobra.Command {

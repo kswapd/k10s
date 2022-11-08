@@ -4,8 +4,8 @@ import (
 	"context"
 	"time"
 
-	"github.com/kswapd/k9s/internal/model"
-	"github.com/kswapd/k9s/internal/render"
+	"github.com/kswapd/k10s/internal/model"
+	"github.com/kswapd/k10s/internal/render"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	"k8s.io/apimachinery/pkg/runtime"
 )

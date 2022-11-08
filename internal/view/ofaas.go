@@ -4,9 +4,9 @@ package view
 // import (
 // 	"strings"
 
-// 	"github.com/kswapd/k9s/internal/client"
-// 	"github.com/kswapd/k9s/internal/render"
-// 	"github.com/kswapd/k9s/internal/ui"
+// 	"github.com/kswapd/k10s/internal/client"
+// 	"github.com/kswapd/k10s/internal/render"
+// 	"github.com/kswapd/k10s/internal/ui"
 // )
 
 // // OpenFaas represents an OpenFaaS viewer.

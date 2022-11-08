@@ -5,9 +5,9 @@ import (
 	"strings"
 
 	"github.com/gdamore/tcell/v2"
-	"github.com/kswapd/k9s/internal/config"
-	"github.com/kswapd/k9s/internal/ui"
-	"github.com/kswapd/k9s/internal/ui/dialog"
+	"github.com/kswapd/k10s/internal/config"
+	"github.com/kswapd/k10s/internal/ui"
+	"github.com/kswapd/k10s/internal/ui/dialog"
 	"github.com/rs/zerolog/log"
 )
 

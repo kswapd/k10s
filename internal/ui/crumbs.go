@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/kswapd/k9s/internal/config"
-	"github.com/kswapd/k9s/internal/model"
 	"github.com/derailed/tview"
+	"github.com/kswapd/k10s/internal/config"
+	"github.com/kswapd/k10s/internal/model"
 )
 
 // Crumbs represents user breadcrumbs.

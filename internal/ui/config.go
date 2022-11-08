@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"path/filepath"
 
-	"github.com/kswapd/k9s/internal/config"
-	"github.com/kswapd/k9s/internal/render"
 	"github.com/fsnotify/fsnotify"
+	"github.com/kswapd/k10s/internal/config"
+	"github.com/kswapd/k10s/internal/render"
 	"github.com/rs/zerolog/log"
 )
 

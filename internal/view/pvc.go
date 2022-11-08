@@ -2,8 +2,8 @@ package view
 
 import (
 	"github.com/gdamore/tcell/v2"
-	"github.com/kswapd/k9s/internal/client"
-	"github.com/kswapd/k9s/internal/ui"
+	"github.com/kswapd/k10s/internal/client"
+	"github.com/kswapd/k10s/internal/ui"
 )
 
 // PersistentVolumeClaim represents a PVC custom viewer.

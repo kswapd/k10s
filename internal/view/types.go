@@ -3,10 +3,10 @@ package view
 import (
 	"context"
 
-	"github.com/kswapd/k9s/internal/client"
-	"github.com/kswapd/k9s/internal/dao"
-	"github.com/kswapd/k9s/internal/model"
-	"github.com/kswapd/k9s/internal/ui"
+	"github.com/kswapd/k10s/internal/client"
+	"github.com/kswapd/k10s/internal/dao"
+	"github.com/kswapd/k10s/internal/model"
+	"github.com/kswapd/k10s/internal/ui"
 )
 
 const (
