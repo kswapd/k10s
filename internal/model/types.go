@@ -5,9 +5,9 @@ import (
 	"time"
 
 	"github.com/derailed/tview"
-	"github.com/kswapd/k10s/internal/client"
-	"github.com/kswapd/k10s/internal/dao"
-	"github.com/kswapd/k10s/internal/render"
+	"github.com/kswapd/k11s/internal/client"
+	"github.com/kswapd/k11s/internal/dao"
+	"github.com/kswapd/k11s/internal/render"
 	"github.com/sahilm/fuzzy"
 	"k8s.io/apimachinery/pkg/runtime"
 )

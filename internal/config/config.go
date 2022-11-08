@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 
 	"github.com/adrg/xdg"
-	"github.com/kswapd/k10s/internal/client"
+	"github.com/kswapd/k11s/internal/client"
 	"github.com/rs/zerolog/log"
 	"gopkg.in/yaml.v2"
 	"k8s.io/cli-runtime/pkg/genericclioptions"

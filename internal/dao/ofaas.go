@@ -16,8 +16,8 @@ package dao
 // 	"strings"
 // 	"time"
 
-// 	"github.com/kswapd/k10s/internal/client"
-// 	"github.com/kswapd/k10s/internal/render"
+// 	"github.com/kswapd/k11s/internal/client"
+// 	"github.com/kswapd/k11s/internal/render"
 // 	"github.com/openfaas/faas-cli/proxy"
 // 	"github.com/openfaas/faas/gateway/requests"
 // 	"github.com/rs/zerolog/log"

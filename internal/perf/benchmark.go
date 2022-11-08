@@ -11,10 +11,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/kswapd/k10s/internal/dao"
+	"github.com/kswapd/k11s/internal/dao"
 
-	"github.com/kswapd/k10s/internal/client"
-	"github.com/kswapd/k10s/internal/config"
+	"github.com/kswapd/k11s/internal/client"
+	"github.com/kswapd/k11s/internal/config"
 	"github.com/rakyll/hey/requester"
 	"github.com/rs/zerolog/log"
 )

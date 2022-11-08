@@ -2,8 +2,8 @@ package view
 
 import (
 	"github.com/gdamore/tcell/v2"
-	"github.com/kswapd/k10s/internal/client"
-	"github.com/kswapd/k10s/internal/ui"
+	"github.com/kswapd/k11s/internal/client"
+	"github.com/kswapd/k11s/internal/ui"
 )
 
 // PriorityClass presents a priority class viewer.

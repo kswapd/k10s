@@ -1,7 +1,7 @@
 package config
 
 import (
-	"github.com/kswapd/k10s/internal/client"
+	"github.com/kswapd/k11s/internal/client"
 	"github.com/rs/zerolog/log"
 )
 

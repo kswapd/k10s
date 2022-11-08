@@ -4,7 +4,7 @@ import (
 	"sort"
 
 	"github.com/gdamore/tcell/v2"
-	"github.com/kswapd/k10s/internal/model"
+	"github.com/kswapd/k11s/internal/model"
 	"github.com/rs/zerolog/log"
 )
 

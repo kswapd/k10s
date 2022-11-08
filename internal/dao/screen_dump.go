@@ -5,8 +5,8 @@ import (
 	"errors"
 	"os"
 
-	"github.com/kswapd/k10s/internal"
-	"github.com/kswapd/k10s/internal/render"
+	"github.com/kswapd/k11s/internal"
+	"github.com/kswapd/k11s/internal/render"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	"k8s.io/apimachinery/pkg/runtime"
 )

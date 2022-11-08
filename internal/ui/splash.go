@@ -5,7 +5,7 @@ import (
 	"strings"
 
 	"github.com/derailed/tview"
-	"github.com/kswapd/k10s/internal/config"
+	"github.com/kswapd/k11s/internal/config"
 )
 
 // LogoSmall K9s small log.

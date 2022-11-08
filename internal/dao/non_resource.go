@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/kswapd/k10s/internal/client"
+	"github.com/kswapd/k11s/internal/client"
 	"k8s.io/apimachinery/pkg/runtime"
 )
 

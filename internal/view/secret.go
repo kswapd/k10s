@@ -2,8 +2,8 @@ package view
 
 import (
 	"github.com/gdamore/tcell/v2"
-	"github.com/kswapd/k10s/internal/client"
-	"github.com/kswapd/k10s/internal/ui"
+	"github.com/kswapd/k11s/internal/client"
+	"github.com/kswapd/k11s/internal/ui"
 	v1 "k8s.io/api/core/v1"
 	"k8s.io/apimachinery/pkg/apis/meta/v1/unstructured"
 	"k8s.io/apimachinery/pkg/labels"

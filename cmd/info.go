@@ -5,9 +5,9 @@ import (
 
 	"os"
 
-	"github.com/kswapd/k10s/internal/color"
-	"github.com/kswapd/k10s/internal/config"
-	"github.com/kswapd/k10s/internal/ui"
+	"github.com/kswapd/k11s/internal/color"
+	"github.com/kswapd/k11s/internal/config"
+	"github.com/kswapd/k11s/internal/ui"
 	"github.com/rs/zerolog/log"
 	"github.com/spf13/cobra"
 	"gopkg.in/yaml.v2"

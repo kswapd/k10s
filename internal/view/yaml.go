@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/derailed/tview"
-	"github.com/kswapd/k10s/internal/config"
+	"github.com/kswapd/k11s/internal/config"
 	"github.com/rs/zerolog/log"
 )
 

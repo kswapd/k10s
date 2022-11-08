@@ -1,7 +1,7 @@
 package config
 
 import (
-	"github.com/kswapd/k10s/internal/client"
+	"github.com/kswapd/k11s/internal/client"
 	v1 "k8s.io/api/core/v1"
 )
 

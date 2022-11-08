@@ -4,9 +4,9 @@ import (
 	"errors"
 
 	"github.com/gdamore/tcell/v2"
-	"github.com/kswapd/k10s/internal/client"
-	"github.com/kswapd/k10s/internal/dao"
-	"github.com/kswapd/k10s/internal/ui"
+	"github.com/kswapd/k11s/internal/client"
+	"github.com/kswapd/k11s/internal/dao"
+	"github.com/kswapd/k11s/internal/ui"
 	"github.com/rs/zerolog/log"
 )
 

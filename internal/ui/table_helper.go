@@ -6,9 +6,9 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/kswapd/k10s/internal"
-	"github.com/kswapd/k10s/internal/config"
-	"github.com/kswapd/k10s/internal/render"
+	"github.com/kswapd/k11s/internal"
+	"github.com/kswapd/k11s/internal/config"
+	"github.com/kswapd/k11s/internal/render"
 	"github.com/rs/zerolog/log"
 	"github.com/sahilm/fuzzy"
 )

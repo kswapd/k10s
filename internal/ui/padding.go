@@ -4,7 +4,7 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/kswapd/k10s/internal/render"
+	"github.com/kswapd/k11s/internal/render"
 )
 
 // MaxyPad tracks uniform column padding.

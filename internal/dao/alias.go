@@ -7,10 +7,10 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/kswapd/k10s/internal"
-	"github.com/kswapd/k10s/internal/client"
-	"github.com/kswapd/k10s/internal/config"
-	"github.com/kswapd/k10s/internal/render"
+	"github.com/kswapd/k11s/internal"
+	"github.com/kswapd/k11s/internal/client"
+	"github.com/kswapd/k11s/internal/config"
+	"github.com/kswapd/k11s/internal/render"
 	"k8s.io/apimachinery/pkg/runtime"
 )
 
