@@ -18,9 +18,9 @@ Maintenance release bug fixes
 
 ## Resolved Bugs/Features
 
-+ [Issue #266](https://github.com/kswapd/k10s/issues/266)
-+ [Issue #262](https://github.com/kswapd/k10s/issues/262)
-+ [Issue #246](https://github.com/kswapd/k10s/issues/246) Thank you @mcristina422!
++ [Issue #266](https://github.com/kswapd/k11s/issues/266)
++ [Issue #262](https://github.com/kswapd/k11s/issues/262)
++ [Issue #246](https://github.com/kswapd/k11s/issues/246) Thank you @mcristina422!
 
 ---
 

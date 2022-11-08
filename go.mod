@@ -1,4 +1,4 @@
-module github.com/kswapd/k10s
+module github.com/kswapd/k11s
 
 go 1.19
 

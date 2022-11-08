@@ -18,7 +18,7 @@ On Slack? Please join us [K9slackers](https://join.slack.com/t/k9sers/shared_inv
 
 ## Resolved Issues/Features
 
-* [Issue #930](https://github.com/kswapd/k10s/issues/930) Version checker is not reporting a new release correctly
+* [Issue #930](https://github.com/kswapd/k11s/issues/930) Version checker is not reporting a new release correctly
 
 ## Resolved PRs
 

@@ -18,12 +18,12 @@ On Slack? Please join us [K9slackers](https://join.slack.com/t/k9sers/shared_inv
 
 ## Resolved Issues/Features
 
-* [Issue #821](https://github.com/kswapd/k10s/issues/821) Default color is no longer transparent.
-* [Issue #933](https://github.com/kswapd/k10s/issues/933) Unable to cordon node.
+* [Issue #821](https://github.com/kswapd/k11s/issues/821) Default color is no longer transparent.
+* [Issue #933](https://github.com/kswapd/k11s/issues/933) Unable to cordon node.
 
 ## Resolved PRs
 
-* [PR #941](https://github.com/kswapd/k10s/pull/941) Add Monokai skin. My new favorite skin! Big Thanks to [Mike SigsWorth](https://github.com/mikesigs)!!
+* [PR #941](https://github.com/kswapd/k11s/pull/941) Add Monokai skin. My new favorite skin! Big Thanks to [Mike SigsWorth](https://github.com/mikesigs)!!
 
 ---
 

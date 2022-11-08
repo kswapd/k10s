@@ -16,11 +16,11 @@ Maintenance Release!
 
 ## Resolved Bugs/Features/PRs
 
-* [Issue #726](https://github.com/kswapd/k10s/issues/726)
-* [Issue #724](https://github.com/kswapd/k10s/issues/724)
-* [Issue #722](https://github.com/kswapd/k10s/issues/722)
-* [Issue #721](https://github.com/kswapd/k10s/issues/721)
-* [Issue #720](https://github.com/kswapd/k10s/issues/720)
+* [Issue #726](https://github.com/kswapd/k11s/issues/726)
+* [Issue #724](https://github.com/kswapd/k11s/issues/724)
+* [Issue #722](https://github.com/kswapd/k11s/issues/722)
+* [Issue #721](https://github.com/kswapd/k11s/issues/721)
+* [Issue #720](https://github.com/kswapd/k11s/issues/720)
 
 ---
 

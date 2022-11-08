@@ -22,8 +22,8 @@ Thank you!!
 
 ## Resolved Issues
 
-* [Issue #1742](https://github.com/kswapd/k10s/issues/1770) copy to clipboard throw panic error
-* [Issue #1768](https://github.com/kswapd/k10s/issues/1768) build fails due to new clipboard package
+* [Issue #1742](https://github.com/kswapd/k11s/issues/1770) copy to clipboard throw panic error
+* [Issue #1768](https://github.com/kswapd/k11s/issues/1768) build fails due to new clipboard package
 
 ---
 

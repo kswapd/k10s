@@ -23,7 +23,7 @@ Maintenance Release!
 
 ## Resolved Bugs/Features/PRs
 
-* [Issue #790](https://github.com/kswapd/k10s/issues/790) My bad! Must get mo' sleep ;(
+* [Issue #790](https://github.com/kswapd/k11s/issues/790) My bad! Must get mo' sleep ;(
 
 ---
 

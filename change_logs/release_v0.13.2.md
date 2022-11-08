@@ -34,7 +34,7 @@ Still watch out for that overbite!! hence please proceed with caution...
 
 ## Resolved Bugs/Features
 
-* [Issue #500](https://github.com/kswapd/k10s/issues/500)
+* [Issue #500](https://github.com/kswapd/k11s/issues/500)
 
 ---
 

@@ -20,10 +20,10 @@ WOOT!! Big Thank you to [Mark Baumann](https://github.com/mtreeman) for your con
 
 ## Resolved Bugs/Features/PRs
 
-* [Issue #523](https://github.com/kswapd/k10s/issues/523)
-* [Issue #522](https://github.com/kswapd/k10s/issues/522)
-* [Issue #521](https://github.com/kswapd/k10s/issues/521)
-* [PR #524](https://github.com/kswapd/k10s/pull/524) Big Thanks!! [Joscha](https://github.com/joscha-alisch)
+* [Issue #523](https://github.com/kswapd/k11s/issues/523)
+* [Issue #522](https://github.com/kswapd/k11s/issues/522)
+* [Issue #521](https://github.com/kswapd/k11s/issues/521)
+* [PR #524](https://github.com/kswapd/k11s/pull/524) Big Thanks!! [Joscha](https://github.com/joscha-alisch)
 
 ---
 

@@ -18,5 +18,5 @@ Thank you so much for your support!!
 
 ## Resolved Bugs
 
-* [Issue #83](https://github.com/kswapd/k10s/issues/83)
-* [Issue #84](https://github.com/kswapd/k10s/issues/84)
+* [Issue #83](https://github.com/kswapd/k11s/issues/83)
+* [Issue #84](https://github.com/kswapd/k11s/issues/84)

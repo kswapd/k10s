@@ -102,14 +102,14 @@ Many thanks to all of you for your time, ideas, contributions and support!!
 
 ## Resolved Bugs/Features
 
-+ [Issue #274](https://github.com/kswapd/k10s/issues/274)
-+ [Issue #273](https://github.com/kswapd/k10s/issues/273)
-+ [Issue #272](https://github.com/kswapd/k10s/issues/272)
-+ [Issue #271](https://github.com/kswapd/k10s/issues/271)
-+ [Issue #267](https://github.com/kswapd/k10s/issues/267)
-+ [Issue #247](https://github.com/kswapd/k10s/issues/247)
-+ [Issue #203](https://github.com/kswapd/k10s/issues/203)
-+ [Issue #12](https://github.com/kswapd/k10s/issues/12) Thank you Nathan!!
++ [Issue #274](https://github.com/kswapd/k11s/issues/274)
++ [Issue #273](https://github.com/kswapd/k11s/issues/273)
++ [Issue #272](https://github.com/kswapd/k11s/issues/272)
++ [Issue #271](https://github.com/kswapd/k11s/issues/271)
++ [Issue #267](https://github.com/kswapd/k11s/issues/267)
++ [Issue #247](https://github.com/kswapd/k11s/issues/247)
++ [Issue #203](https://github.com/kswapd/k11s/issues/203)
++ [Issue #12](https://github.com/kswapd/k11s/issues/12) Thank you Nathan!!
 
 ---
 

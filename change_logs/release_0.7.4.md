@@ -18,7 +18,7 @@ Maintenance release.
 
 ## Resolved Bugs/Features
 
-+ [Issue #211](https://github.com/kswapd/k10s/issues/210)
++ [Issue #211](https://github.com/kswapd/k11s/issues/210)
 
 
 ---

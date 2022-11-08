@@ -22,8 +22,8 @@ Maintenance Release!
 
 ## Resolved Bugs/Features/PRs
 
-* [Issue #649](https://github.com/kswapd/k10s/issues/649)
-* [PR #638](https://github.com/kswapd/k10s/pull/638) Thank you! [Shang Yuanchun](https://github.com/ideal)
+* [Issue #649](https://github.com/kswapd/k11s/issues/649)
+* [PR #638](https://github.com/kswapd/k11s/pull/638) Thank you! [Shang Yuanchun](https://github.com/ideal)
 
 ---
 
