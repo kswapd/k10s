@@ -18,7 +18,7 @@ Happy (`Wild`) Turkey Day Everyone!!
 
 ## Resolved Issues
 
-* [Issue #1341](https://github.com/kswapd/k11s/issues/1341) Colored container logs are not displayed correctly.
+* [Issue #1341](https://github.com/kswapd/k12s/issues/1341) Colored container logs are not displayed correctly.
 
 ---
 

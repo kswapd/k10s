@@ -20,7 +20,7 @@ Arg.. Must get m'o sleep!!
 
 ## Resolved Issues/Features
 
-* [Issue #889](https://github.com/kswapd/k11s/issues/889) Disable readOnly config
+* [Issue #889](https://github.com/kswapd/k12s/issues/889) Disable readOnly config
 
 ## Resolved PRs
 

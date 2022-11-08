@@ -24,7 +24,7 @@ Thank you so much for your support!!
 
 ## Resolved Bugs
 
-+ [Issue #116](https://github.com/kswapd/k11s/issues/116)
-+ [Issue #113](https://github.com/kswapd/k11s/issues/113)
-+ [Issue #111](https://github.com/kswapd/k11s/issues/111)
-+ [Issue #110](https://github.com/kswapd/k11s/issues/110)
++ [Issue #116](https://github.com/kswapd/k12s/issues/116)
++ [Issue #113](https://github.com/kswapd/k12s/issues/113)
++ [Issue #111](https://github.com/kswapd/k12s/issues/111)
++ [Issue #110](https://github.com/kswapd/k12s/issues/110)

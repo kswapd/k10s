@@ -23,7 +23,7 @@ builds:
     flags:
       - -trimpath
     ldflags:
-      - -s -w -X github.com/kswapd/k11s/cmd.version=v{{.Version}} -X github.com/kswapd/k11s/cmd.commit={{.Commit}} -X github.com/kswapd/k11s/cmd.date={{.Date}}
+      - -s -w -X github.com/kswapd/k12s/cmd.version=v{{.Version}} -X github.com/kswapd/k12s/cmd.commit={{.Commit}} -X github.com/kswapd/k12s/cmd.date={{.Date}}
 archives:
   - name_template: "{{ .ProjectName }}_{{ .Os }}_{{ .Arch }}"
     replacements:

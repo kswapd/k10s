@@ -41,9 +41,9 @@ plugin:
 
 ## Resolved Bugs/Features/PRs
 
-- [Issue #616](https://github.com/kswapd/k11s/issues/616)
-- [Issue #615](https://github.com/kswapd/k11s/issues/615)
-- [Issue #614](https://github.com/kswapd/k11s/issues/614)
+- [Issue #616](https://github.com/kswapd/k12s/issues/616)
+- [Issue #615](https://github.com/kswapd/k12s/issues/615)
+- [Issue #614](https://github.com/kswapd/k12s/issues/614)
 
 ---
 

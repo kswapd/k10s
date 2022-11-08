@@ -1,4 +1,4 @@
-module github.com/kswapd/k11s
+module github.com/kswapd/k12s
 
 go 1.18
 

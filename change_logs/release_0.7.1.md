@@ -29,8 +29,8 @@ This is a quick turn around, hopefully I did not hose anything else in the proce
 
 ## Resolved Bugs/Features
 
-+ [Issue #200](https://github.com/kswapd/k11s/issues/200)
-+ [Issue #187](https://github.com/kswapd/k11s/issues/187)
++ [Issue #200](https://github.com/kswapd/k12s/issues/200)
++ [Issue #187](https://github.com/kswapd/k12s/issues/187)
 
 ---
 

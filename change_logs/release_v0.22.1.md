@@ -16,9 +16,9 @@ Maintenance Release!
 
 ## Resolved Issues/Features
 
-* [Issue #882](https://github.com/kswapd/k11s/issues/882) After filtering objects cannot enter them anymore
-* [Issue #881](https://github.com/kswapd/k11s/issues/881) CPU limit percentage in pod view counts containers without limits
-* [Issue #880](https://github.com/kswapd/k11s/issues/880) filtering/search doesn't take all columns into account anymore
+* [Issue #882](https://github.com/kswapd/k12s/issues/882) After filtering objects cannot enter them anymore
+* [Issue #881](https://github.com/kswapd/k12s/issues/881) CPU limit percentage in pod view counts containers without limits
+* [Issue #880](https://github.com/kswapd/k12s/issues/880) filtering/search doesn't take all columns into account anymore
 
 ## Resolved PRs
 

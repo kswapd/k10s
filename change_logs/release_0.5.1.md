@@ -22,7 +22,7 @@ Minor code cleanup and some display bug fixes.
 
 ## Resolved Bugs
 
-+ [Issue #168](https://github.com/kswapd/k11s/issues/168)
++ [Issue #168](https://github.com/kswapd/k12s/issues/168)
 
 ---
 

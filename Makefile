@@ -1,11 +1,11 @@
 GO_FLAGS   ?=
-NAME       := k11s
+NAME       := k12s
 OUTPUT_BIN ?= execs/${NAME}
 PACKAGE    := github.com/derailed/$(NAME)
 GIT_REV    ?= $(shell git rev-parse --short HEAD)
 SOURCE_DATE_EPOCH ?= $(shell gdate +%s)
 DATE       ?= $(shell gdate -u -d @${SOURCE_DATE_EPOCH} +"%Y-%m-%dT%H:%M:%SZ")
-VERSION    ?= v0.26.0
+VERSION    ?= v1.0.2
 IMG_NAME   := derailed/k9s
 IMAGE      := ${IMG_NAME}:${VERSION}
 

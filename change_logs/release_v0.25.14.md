@@ -20,7 +20,7 @@ Doh! Hot fix on the way...
 
 ## Resolved Issues
 
-* [Issue #1384](https://github.com/kswapd/k11s/issues/1384) Leaving Logs View Causes Crash: "panic: send on closed channel"
+* [Issue #1384](https://github.com/kswapd/k12s/issues/1384) Leaving Logs View Causes Crash: "panic: send on closed channel"
 
 ---
 

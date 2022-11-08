@@ -22,12 +22,12 @@ Some folks voiced concerns with K9s config dir littering their home directory wi
 
 ## Resolved Bugs/Features/PRs
 
-- [Issue #754](https://github.com/kswapd/k11s/issues/754)
-- [Issue #753](https://github.com/kswapd/k11s/issues/753)
-- [Issue #743](https://github.com/kswapd/k11s/issues/743)
-- [Issue #728](https://github.com/kswapd/k11s/issues/728)
-- [Issue #718](https://github.com/kswapd/k11s/issues/718)
-- [Issue #643](https://github.com/kswapd/k11s/issues/643)
+- [Issue #754](https://github.com/kswapd/k12s/issues/754)
+- [Issue #753](https://github.com/kswapd/k12s/issues/753)
+- [Issue #743](https://github.com/kswapd/k12s/issues/743)
+- [Issue #728](https://github.com/kswapd/k12s/issues/728)
+- [Issue #718](https://github.com/kswapd/k12s/issues/718)
+- [Issue #643](https://github.com/kswapd/k12s/issues/643)
 
 ---
 

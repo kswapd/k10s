@@ -50,14 +50,14 @@ k9s:
 
 ## Resolved Bugs/Features/PRs
 
-- [Issue #581](https://github.com/kswapd/k11s/issues/581)
-- [Issue #576](https://github.com/kswapd/k11s/issues/576)
-- [Issue #574](https://github.com/kswapd/k11s/issues/574)
-- [Issue #573](https://github.com/kswapd/k11s/issues/573)
-- [Issue #571](https://github.com/kswapd/k11s/issues/571)
-- [Issue #566](https://github.com/kswapd/k11s/issues/566)
-- [Issue #563](https://github.com/kswapd/k11s/issues/563)
-- [Issue #562](https://github.com/kswapd/k11s/issues/562)
+- [Issue #581](https://github.com/kswapd/k12s/issues/581)
+- [Issue #576](https://github.com/kswapd/k12s/issues/576)
+- [Issue #574](https://github.com/kswapd/k12s/issues/574)
+- [Issue #573](https://github.com/kswapd/k12s/issues/573)
+- [Issue #571](https://github.com/kswapd/k12s/issues/571)
+- [Issue #566](https://github.com/kswapd/k12s/issues/566)
+- [Issue #563](https://github.com/kswapd/k12s/issues/563)
+- [Issue #562](https://github.com/kswapd/k12s/issues/562)
 
 ---
 

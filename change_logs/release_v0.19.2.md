@@ -27,9 +27,9 @@ NOTE! During K9s update to support the latest version of Kubernetes (v1.18), K9s
 
 ## Resolved Bugs/Features/PRs
 
-* [Issue #665](https://github.com/kswapd/k11s/issues/665)
-* [Issue #662](https://github.com/kswapd/k11s/issues/662)
-* [PR #660](https://github.com/kswapd/k11s/pull/660) Thank you! [Tomáš Pospíšek](https://github.com/tpo)
+* [Issue #665](https://github.com/kswapd/k12s/issues/665)
+* [Issue #662](https://github.com/kswapd/k12s/issues/662)
+* [PR #660](https://github.com/kswapd/k12s/pull/660) Thank you! [Tomáš Pospíšek](https://github.com/tpo)
 
 ---
 

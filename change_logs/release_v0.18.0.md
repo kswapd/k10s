@@ -59,10 +59,10 @@ k9s:
 
 ## Resolved Bugs/Features/PRs
 
-* [Issue #628](https://github.com/kswapd/k11s/issues/628)
-* [Issue #623](https://github.com/kswapd/k11s/issues/623)
-* [Issue #622](https://github.com/kswapd/k11s/issues/622)
-* [Issue #565](https://github.com/kswapd/k11s/issues/565)
+* [Issue #628](https://github.com/kswapd/k12s/issues/628)
+* [Issue #623](https://github.com/kswapd/k12s/issues/623)
+* [Issue #622](https://github.com/kswapd/k12s/issues/622)
+* [Issue #565](https://github.com/kswapd/k12s/issues/565)
 
 ---
 

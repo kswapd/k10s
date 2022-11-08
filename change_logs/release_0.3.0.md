@@ -14,13 +14,13 @@ Thank you so much for your support!!
 
 ## Change Logs
 
-1. [Feature #127](https://github.com/kswapd/k11s/issues/127)
+1. [Feature #127](https://github.com/kswapd/k12s/issues/127)
    Added PodDisruptionBudgets initial support.
 
 ---
 
 ## Resolved Bugs
 
-+ [Issue #126](https://github.com/kswapd/k11s/issues/126)
-+ [Issue #125](https://github.com/kswapd/k11s/issues/125)
-+ [Issue #122](https://github.com/kswapd/k11s/issues/122) With feeling!
++ [Issue #126](https://github.com/kswapd/k12s/issues/126)
++ [Issue #125](https://github.com/kswapd/k12s/issues/125)
++ [Issue #122](https://github.com/kswapd/k12s/issues/122) With feeling!

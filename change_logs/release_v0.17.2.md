@@ -16,9 +16,9 @@ Maintenance Release!
 
 ## Resolved Bugs/Features/PRs
 
-- [Issue #592](https://github.com/kswapd/k11s/issues/592)
-- [Issue #591](https://github.com/kswapd/k11s/issues/591)
-- [Issue #590](https://github.com/kswapd/k11s/issues/590)
+- [Issue #592](https://github.com/kswapd/k12s/issues/592)
+- [Issue #591](https://github.com/kswapd/k12s/issues/591)
+- [Issue #590](https://github.com/kswapd/k12s/issues/590)
 
 ---
 

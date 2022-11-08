@@ -32,11 +32,11 @@ Thank you so much for your support!!
 ---
 ## Resolved Bugs
 
-+ [Issue #50](https://github.com/kswapd/k11s/issues/50)
-+ [Issue #44](https://github.com/kswapd/k11s/issues/44)
-+ [Issue #42](https://github.com/kswapd/k11s/issues/42)
-+ [Issue #38](https://github.com/kswapd/k11s/issues/38)
-+ [Issue #36](https://github.com/kswapd/k11s/issues/36)
-+ [Issue #28](https://github.com/kswapd/k11s/issues/28)
-+ [Issue #24](https://github.com/kswapd/k11s/issues/24)
-+ [Issue #24](https://github.com/kswapd/k11s/issues/3)
++ [Issue #50](https://github.com/kswapd/k12s/issues/50)
++ [Issue #44](https://github.com/kswapd/k12s/issues/44)
++ [Issue #42](https://github.com/kswapd/k12s/issues/42)
++ [Issue #38](https://github.com/kswapd/k12s/issues/38)
++ [Issue #36](https://github.com/kswapd/k12s/issues/36)
++ [Issue #28](https://github.com/kswapd/k12s/issues/28)
++ [Issue #24](https://github.com/kswapd/k12s/issues/24)
++ [Issue #24](https://github.com/kswapd/k12s/issues/3)

@@ -24,7 +24,7 @@ Ran thru another perf pass and hope I've pushed the needle in the right directio
 
 ## Resolved Bugs
 
-+ [Issue #176](https://github.com/kswapd/k11s/issues/171) Fingers crossed it's a better drop 🙏🐭?
++ [Issue #176](https://github.com/kswapd/k12s/issues/171) Fingers crossed it's a better drop 🙏🐭?
 
 ---
 
