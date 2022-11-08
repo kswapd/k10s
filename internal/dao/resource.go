@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/kswapd/k11s/internal"
+	"github.com/kswapd/k12s/internal"
 	"k8s.io/apimachinery/pkg/labels"
 	"k8s.io/apimachinery/pkg/runtime"
 )

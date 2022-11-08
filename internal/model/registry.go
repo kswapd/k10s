@@ -1,9 +1,9 @@
 package model
 
 import (
-	"github.com/kswapd/k11s/internal/dao"
-	"github.com/kswapd/k11s/internal/render"
-	"github.com/kswapd/k11s/internal/xray"
+	"github.com/kswapd/k12s/internal/dao"
+	"github.com/kswapd/k12s/internal/render"
+	"github.com/kswapd/k12s/internal/xray"
 )
 
 // Registry tracks resources metadata.

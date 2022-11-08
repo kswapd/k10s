@@ -4,10 +4,10 @@ import (
 	"context"
 	"testing"
 
-	"github.com/kswapd/k11s/internal"
-	"github.com/kswapd/k11s/internal/client"
-	"github.com/kswapd/k11s/internal/config"
-	"github.com/kswapd/k11s/internal/view"
+	"github.com/kswapd/k12s/internal"
+	"github.com/kswapd/k12s/internal/client"
+	"github.com/kswapd/k12s/internal/config"
+	"github.com/kswapd/k12s/internal/view"
 	"github.com/stretchr/testify/assert"
 )
 

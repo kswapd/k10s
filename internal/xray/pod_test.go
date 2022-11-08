@@ -4,9 +4,9 @@ import (
 	"context"
 	"testing"
 
-	"github.com/kswapd/k11s/internal"
-	"github.com/kswapd/k11s/internal/render"
-	"github.com/kswapd/k11s/internal/xray"
+	"github.com/kswapd/k12s/internal"
+	"github.com/kswapd/k12s/internal/render"
+	"github.com/kswapd/k12s/internal/xray"
 	"github.com/stretchr/testify/assert"
 )
 

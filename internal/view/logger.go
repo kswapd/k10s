@@ -6,9 +6,9 @@ import (
 	"github.com/atotto/clipboard"
 	"github.com/derailed/tview"
 	"github.com/gdamore/tcell/v2"
-	"github.com/kswapd/k11s/internal/config"
-	"github.com/kswapd/k11s/internal/model"
-	"github.com/kswapd/k11s/internal/ui"
+	"github.com/kswapd/k12s/internal/config"
+	"github.com/kswapd/k12s/internal/model"
+	"github.com/kswapd/k12s/internal/ui"
 )
 
 // Logger represents a generic log viewer.

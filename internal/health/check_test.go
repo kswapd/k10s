@@ -3,7 +3,7 @@ package health_test
 import (
 	"testing"
 
-	"github.com/kswapd/k11s/internal/health"
+	"github.com/kswapd/k12s/internal/health"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -3,7 +3,7 @@ package watch
 import (
 	"strings"
 
-	"github.com/kswapd/k11s/internal/port"
+	"github.com/kswapd/k12s/internal/port"
 	"github.com/rs/zerolog/log"
 	"k8s.io/client-go/tools/portforward"
 )

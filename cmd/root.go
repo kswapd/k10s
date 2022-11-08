@@ -2,17 +2,18 @@ package cmd
 
 import (
 	"fmt"
-	"github.com/kswapd/k11s/internal/client"
-	"github.com/kswapd/k11s/internal/color"
-	"github.com/kswapd/k11s/internal/config"
-	"github.com/kswapd/k11s/internal/view"
+	"os"
+	"runtime/debug"
+
+	"github.com/kswapd/k12s/internal/client"
+	"github.com/kswapd/k12s/internal/color"
+	"github.com/kswapd/k12s/internal/config"
+	"github.com/kswapd/k12s/internal/view"
 	"github.com/mattn/go-colorable"
 	"github.com/rs/zerolog"
 	"github.com/rs/zerolog/log"
 	"github.com/spf13/cobra"
 	"k8s.io/cli-runtime/pkg/genericclioptions"
-	"os"
-	"runtime/debug"
 )
 
 const (

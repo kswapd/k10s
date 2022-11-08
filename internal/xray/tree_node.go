@@ -7,8 +7,8 @@ import (
 	"strings"
 
 	"github.com/fvbommel/sortorder"
-	"github.com/kswapd/k11s/internal/client"
-	"github.com/kswapd/k11s/internal/dao"
+	"github.com/kswapd/k12s/internal/client"
+	"github.com/kswapd/k12s/internal/dao"
 	"github.com/rs/zerolog/log"
 )
 

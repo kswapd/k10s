@@ -5,8 +5,8 @@ import (
 	"strings"
 
 	"github.com/derailed/tview"
-	"github.com/kswapd/k11s/internal/config"
-	"github.com/kswapd/k11s/internal/model"
+	"github.com/kswapd/k12s/internal/config"
+	"github.com/kswapd/k12s/internal/model"
 )
 
 // Crumbs represents user breadcrumbs.

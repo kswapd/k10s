@@ -6,11 +6,11 @@ import (
 	"path/filepath"
 
 	"github.com/gdamore/tcell/v2"
-	"github.com/kswapd/k11s/internal"
-	"github.com/kswapd/k11s/internal/client"
-	"github.com/kswapd/k11s/internal/config"
-	"github.com/kswapd/k11s/internal/render"
-	"github.com/kswapd/k11s/internal/ui"
+	"github.com/kswapd/k12s/internal"
+	"github.com/kswapd/k12s/internal/client"
+	"github.com/kswapd/k12s/internal/config"
+	"github.com/kswapd/k12s/internal/render"
+	"github.com/kswapd/k12s/internal/ui"
 	"github.com/rs/zerolog/log"
 )
 

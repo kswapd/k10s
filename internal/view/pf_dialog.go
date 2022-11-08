@@ -7,8 +7,8 @@ import (
 	"strings"
 
 	"github.com/derailed/tview"
-	"github.com/kswapd/k11s/internal/port"
-	"github.com/kswapd/k11s/internal/ui"
+	"github.com/kswapd/k12s/internal/port"
+	"github.com/kswapd/k12s/internal/ui"
 	"github.com/rs/zerolog/log"
 )
 

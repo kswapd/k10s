@@ -2,9 +2,9 @@ package view
 
 import (
 	"github.com/gdamore/tcell/v2"
-	"github.com/kswapd/k11s/internal/client"
-	"github.com/kswapd/k11s/internal/dao"
-	"github.com/kswapd/k11s/internal/ui"
+	"github.com/kswapd/k12s/internal/client"
+	"github.com/kswapd/k12s/internal/dao"
+	"github.com/kswapd/k12s/internal/ui"
 )
 
 // LogsExtender adds log actions to a given viewer.

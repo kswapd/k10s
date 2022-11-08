@@ -3,9 +3,9 @@ package ui_test
 import (
 	"testing"
 
-	"github.com/kswapd/k11s/internal/config"
-	"github.com/kswapd/k11s/internal/model"
-	"github.com/kswapd/k11s/internal/ui"
+	"github.com/kswapd/k12s/internal/config"
+	"github.com/kswapd/k12s/internal/model"
+	"github.com/kswapd/k12s/internal/ui"
 	"github.com/stretchr/testify/assert"
 )
 

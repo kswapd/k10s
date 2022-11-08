@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/derailed/tview"
-	"github.com/kswapd/k11s/internal/model"
+	"github.com/kswapd/k12s/internal/model"
 	"github.com/rs/zerolog/log"
 )
 

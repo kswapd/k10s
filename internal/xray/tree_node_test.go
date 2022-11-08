@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/kswapd/k11s/internal/xray"
+	"github.com/kswapd/k12s/internal/xray"
 	"github.com/stretchr/testify/assert"
 )
 

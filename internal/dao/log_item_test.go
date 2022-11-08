@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/kswapd/k11s/internal/client"
-	"github.com/kswapd/k11s/internal/dao"
+	"github.com/kswapd/k12s/internal/client"
+	"github.com/kswapd/k12s/internal/dao"
 	"github.com/stretchr/testify/assert"
 )
 

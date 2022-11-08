@@ -8,8 +8,8 @@ import (
 	"time"
 
 	backoff "github.com/cenkalti/backoff/v4"
-	"github.com/kswapd/k11s/internal/client"
-	"github.com/kswapd/k11s/internal/dao"
+	"github.com/kswapd/k12s/internal/client"
+	"github.com/kswapd/k12s/internal/dao"
 	"github.com/rs/zerolog/log"
 	"github.com/sahilm/fuzzy"
 )

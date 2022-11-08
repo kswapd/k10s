@@ -1,6 +1,6 @@
 package config
 
-import "github.com/kswapd/k11s/internal/client"
+import "github.com/kswapd/k12s/internal/client"
 
 // DefaultPFAddress specifies the default PortForward host address.
 const DefaultPFAddress = "localhost"

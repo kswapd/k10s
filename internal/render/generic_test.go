@@ -3,8 +3,8 @@ package render_test
 import (
 	"testing"
 
-	"github.com/kswapd/k11s/internal/client"
-	"github.com/kswapd/k11s/internal/render"
+	"github.com/kswapd/k12s/internal/client"
+	"github.com/kswapd/k12s/internal/render"
 	"github.com/stretchr/testify/assert"
 	metav1beta1 "k8s.io/apimachinery/pkg/apis/meta/v1beta1"
 	"k8s.io/apimachinery/pkg/runtime"

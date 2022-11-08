@@ -4,7 +4,6 @@ import (
 	"bytes"
 	"context"
 	"fmt"
-	"github.com/kswapd/k11s/internal/dao"
 	"io"
 	"net/http"
 	"os"
@@ -12,8 +11,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/kswapd/k11s/internal/client"
-	"github.com/kswapd/k11s/internal/config"
+	"github.com/kswapd/k12s/internal/dao"
+
+	"github.com/kswapd/k12s/internal/client"
+	"github.com/kswapd/k12s/internal/config"
 	"github.com/rakyll/hey/requester"
 	"github.com/rs/zerolog/log"
 )

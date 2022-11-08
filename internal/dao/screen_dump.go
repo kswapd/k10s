@@ -6,8 +6,8 @@ import (
 	"os"
 	"regexp"
 
-	"github.com/kswapd/k11s/internal"
-	"github.com/kswapd/k11s/internal/render"
+	"github.com/kswapd/k12s/internal"
+	"github.com/kswapd/k12s/internal/render"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	"k8s.io/apimachinery/pkg/runtime"
 )

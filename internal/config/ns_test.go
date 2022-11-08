@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/kswapd/k11s/internal/config"
+	"github.com/kswapd/k12s/internal/config"
 	m "github.com/petergtz/pegomock"
 	"github.com/stretchr/testify/assert"
 )

@@ -6,7 +6,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/kswapd/k11s/internal/client"
+	"github.com/kswapd/k12s/internal/client"
 	"github.com/rs/zerolog/log"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	v1 "k8s.io/apimachinery/pkg/apis/meta/v1"

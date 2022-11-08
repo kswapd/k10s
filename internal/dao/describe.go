@@ -1,7 +1,7 @@
 package dao
 
 import (
-	"github.com/kswapd/k11s/internal/client"
+	"github.com/kswapd/k12s/internal/client"
 	"github.com/rs/zerolog/log"
 	"k8s.io/kubectl/pkg/describe"
 )
