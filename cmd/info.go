@@ -3,9 +3,9 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/derailed/k9s/internal/color"
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/ui"
+	"github.com/kswapd/k11s/internal/color"
+	"github.com/kswapd/k11s/internal/config"
+	"github.com/kswapd/k11s/internal/ui"
 	"github.com/rs/zerolog/log"
 	"github.com/spf13/cobra"
 	"gopkg.in/yaml.v2"

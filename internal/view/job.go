@@ -1,9 +1,9 @@
 package view
 
 import (
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/render"
-	"github.com/derailed/k9s/internal/ui"
+	"github.com/kswapd/k11s/internal/client"
+	"github.com/kswapd/k11s/internal/render"
+	"github.com/kswapd/k11s/internal/ui"
 	batchv1 "k8s.io/api/batch/v1"
 	"k8s.io/apimachinery/pkg/apis/meta/v1/unstructured"
 	"k8s.io/apimachinery/pkg/labels"

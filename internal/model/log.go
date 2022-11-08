@@ -6,11 +6,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/derailed/k9s/internal"
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/color"
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/dao"
+	"github.com/kswapd/k11s/internal"
+	"github.com/kswapd/k11s/internal/client"
+	"github.com/kswapd/k11s/internal/color"
+	"github.com/kswapd/k11s/internal/config"
+	"github.com/kswapd/k11s/internal/dao"
 	"github.com/rs/zerolog/log"
 )
 

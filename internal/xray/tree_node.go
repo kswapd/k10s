@@ -6,9 +6,9 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/dao"
 	"github.com/fvbommel/sortorder"
+	"github.com/kswapd/k11s/internal/client"
+	"github.com/kswapd/k11s/internal/dao"
 	"github.com/rs/zerolog/log"
 )
 

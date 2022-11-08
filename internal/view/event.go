@@ -1,10 +1,10 @@
 package view
 
 import (
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/render"
-	"github.com/derailed/k9s/internal/ui"
 	"github.com/gdamore/tcell/v2"
+	"github.com/kswapd/k11s/internal/client"
+	"github.com/kswapd/k11s/internal/render"
+	"github.com/kswapd/k11s/internal/ui"
 )
 
 // Event represents a command alias view.

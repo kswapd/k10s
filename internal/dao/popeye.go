@@ -11,13 +11,13 @@ import (
 	"sort"
 	"time"
 
-	"github.com/derailed/k9s/internal"
-	"github.com/derailed/k9s/internal/client"
-	cfg "github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/render"
 	"github.com/derailed/popeye/pkg"
 	"github.com/derailed/popeye/pkg/config"
 	"github.com/derailed/popeye/types"
+	"github.com/kswapd/k11s/internal"
+	"github.com/kswapd/k11s/internal/client"
+	cfg "github.com/kswapd/k11s/internal/config"
+	"github.com/kswapd/k11s/internal/render"
 	"github.com/rs/zerolog/log"
 	"k8s.io/apimachinery/pkg/runtime"
 )

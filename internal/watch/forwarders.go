@@ -3,7 +3,7 @@ package watch
 import (
 	"strings"
 
-	"github.com/derailed/k9s/internal/port"
+	"github.com/kswapd/k11s/internal/port"
 	"github.com/rs/zerolog/log"
 	"k8s.io/client-go/tools/portforward"
 )
@@ -63,7 +63,7 @@ func (ff Forwarders) IsPodForwarded(fqn string) bool {
 
 // IsContainerForwarded checks if pod has a forward.
 func (ff Forwarders) IsContainerForwarded(fqn, co string) bool {
-	prefix := fqn+"|"+co
+	prefix := fqn + "|" + co
 	for k := range ff {
 		if strings.HasPrefix(k, prefix) {
 			return true

@@ -8,9 +8,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/dao"
 	"github.com/derailed/tview"
+	"github.com/kswapd/k11s/internal/config"
+	"github.com/kswapd/k11s/internal/dao"
 	"github.com/rs/zerolog/log"
 )
 

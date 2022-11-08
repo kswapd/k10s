@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/ui"
-	"github.com/derailed/k9s/internal/ui/dialog"
 	"github.com/gdamore/tcell/v2"
+	"github.com/kswapd/k11s/internal/config"
+	"github.com/kswapd/k11s/internal/ui"
+	"github.com/kswapd/k11s/internal/ui/dialog"
 	"github.com/rs/zerolog/log"
 )
 

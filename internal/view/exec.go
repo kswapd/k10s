@@ -13,9 +13,9 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/config"
 	"github.com/fatih/color"
+	"github.com/kswapd/k11s/internal/client"
+	"github.com/kswapd/k11s/internal/config"
 	"github.com/rs/zerolog/log"
 	v1 "k8s.io/api/core/v1"
 	kerrors "k8s.io/apimachinery/pkg/api/errors"

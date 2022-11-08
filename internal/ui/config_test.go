@@ -5,10 +5,10 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/render"
-	"github.com/derailed/k9s/internal/ui"
 	"github.com/gdamore/tcell/v2"
+	"github.com/kswapd/k11s/internal/config"
+	"github.com/kswapd/k11s/internal/render"
+	"github.com/kswapd/k11s/internal/ui"
 	"github.com/stretchr/testify/assert"
 )
 

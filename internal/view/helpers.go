@@ -7,13 +7,13 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/derailed/k9s/internal"
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/model"
-	"github.com/derailed/k9s/internal/render"
-	"github.com/derailed/k9s/internal/ui"
 	"github.com/gdamore/tcell/v2"
+	"github.com/kswapd/k11s/internal"
+	"github.com/kswapd/k11s/internal/client"
+	"github.com/kswapd/k11s/internal/config"
+	"github.com/kswapd/k11s/internal/model"
+	"github.com/kswapd/k11s/internal/render"
+	"github.com/kswapd/k11s/internal/ui"
 	"github.com/rs/zerolog/log"
 )
 

@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/render"
+	"github.com/kswapd/k11s/internal/client"
+	"github.com/kswapd/k11s/internal/render"
 	"github.com/rs/zerolog/log"
 	"gopkg.in/yaml.v2"
 	"helm.sh/helm/v3/pkg/action"

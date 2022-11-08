@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/derailed/k9s/internal/client"
+	"github.com/kswapd/k11s/internal/client"
 	v1 "k8s.io/api/core/v1"
 	netv1 "k8s.io/api/networking/v1"
 	"k8s.io/apimachinery/pkg/apis/meta/v1/unstructured"

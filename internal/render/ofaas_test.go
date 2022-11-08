@@ -5,7 +5,7 @@ package render_test
 // import (
 // 	"testing"
 
-// 	"github.com/derailed/k9s/internal/render"
+// 	"github.com/kswapd/k11s/internal/render"
 // 	ofaas "github.com/openfaas/faas-provider/types"
 // 	"github.com/stretchr/testify/assert"
 // )

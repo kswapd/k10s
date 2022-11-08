@@ -3,7 +3,7 @@ package port_test
 import (
 	"testing"
 
-	"github.com/derailed/k9s/internal/port"
+	"github.com/kswapd/k11s/internal/port"
 	"github.com/stretchr/testify/assert"
 )
 

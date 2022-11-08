@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/derailed/k9s/internal/model"
+	"github.com/kswapd/k11s/internal/model"
 	"github.com/stretchr/testify/assert"
 )
 

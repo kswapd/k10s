@@ -3,7 +3,7 @@ package client_test
 import (
 	"testing"
 
-	"github.com/derailed/k9s/internal/client"
+	"github.com/kswapd/k11s/internal/client"
 	"github.com/stretchr/testify/assert"
 )
 

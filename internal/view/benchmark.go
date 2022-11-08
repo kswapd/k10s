@@ -6,13 +6,13 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/derailed/k9s/internal"
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/perf"
-	"github.com/derailed/k9s/internal/render"
-	"github.com/derailed/k9s/internal/ui"
 	"github.com/gdamore/tcell/v2"
+	"github.com/kswapd/k11s/internal"
+	"github.com/kswapd/k11s/internal/client"
+	"github.com/kswapd/k11s/internal/config"
+	"github.com/kswapd/k11s/internal/perf"
+	"github.com/kswapd/k11s/internal/render"
+	"github.com/kswapd/k11s/internal/ui"
 )
 
 // Benchmark represents a service benchmark results view.

@@ -2,10 +2,10 @@ package cmd
 
 import (
 	"fmt"
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/color"
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/view"
+	"github.com/kswapd/k11s/internal/client"
+	"github.com/kswapd/k11s/internal/color"
+	"github.com/kswapd/k11s/internal/config"
+	"github.com/kswapd/k11s/internal/view"
 	"github.com/mattn/go-colorable"
 	"github.com/rs/zerolog"
 	"github.com/rs/zerolog/log"

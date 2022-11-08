@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/derailed/k9s/internal/render"
+	"github.com/kswapd/k11s/internal/render"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -6,9 +6,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/derailed/k9s/internal/port"
-	"github.com/derailed/k9s/internal/ui"
 	"github.com/derailed/tview"
+	"github.com/kswapd/k11s/internal/port"
+	"github.com/kswapd/k11s/internal/ui"
 	"github.com/rs/zerolog/log"
 )
 

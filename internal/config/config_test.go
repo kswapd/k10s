@@ -6,8 +6,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/config"
+	"github.com/kswapd/k11s/internal/client"
+	"github.com/kswapd/k11s/internal/config"
 	m "github.com/petergtz/pegomock"
 	"github.com/rs/zerolog"
 	"github.com/stretchr/testify/assert"

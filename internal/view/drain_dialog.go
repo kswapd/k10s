@@ -4,9 +4,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/derailed/k9s/internal/dao"
-	"github.com/derailed/k9s/internal/ui"
 	"github.com/derailed/tview"
+	"github.com/kswapd/k11s/internal/dao"
+	"github.com/kswapd/k11s/internal/ui"
 )
 
 const drainKey = "drain"

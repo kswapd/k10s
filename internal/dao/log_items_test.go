@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/dao"
+	"github.com/kswapd/k11s/internal/client"
+	"github.com/kswapd/k11s/internal/dao"
 	"github.com/rs/zerolog"
 	"github.com/stretchr/testify/assert"
 )

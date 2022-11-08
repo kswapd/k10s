@@ -6,15 +6,15 @@ import (
 	"regexp"
 	"time"
 
-	"github.com/derailed/k9s/internal"
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/dao"
-	"github.com/derailed/k9s/internal/model"
-	"github.com/derailed/k9s/internal/perf"
-	"github.com/derailed/k9s/internal/render"
-	"github.com/derailed/k9s/internal/ui"
 	"github.com/derailed/tview"
 	"github.com/gdamore/tcell/v2"
+	"github.com/kswapd/k11s/internal"
+	"github.com/kswapd/k11s/internal/client"
+	"github.com/kswapd/k11s/internal/dao"
+	"github.com/kswapd/k11s/internal/model"
+	"github.com/kswapd/k11s/internal/perf"
+	"github.com/kswapd/k11s/internal/render"
+	"github.com/kswapd/k11s/internal/ui"
 	"github.com/rs/zerolog/log"
 )
 
