@@ -52,10 +52,17 @@ func Execute() {
 	}
 }
 
-func ExecuteWithExternalRootCmd(eCmd *cobra.Command) {
-	if err := eCmd.Execute(); err != nil {
-		log.Panic().Err(err)
+func ExportExternalCmd() *cobra.Command {
+	rootCmd := &cobra.Command{
+		Use:   appName,
+		Short: shortAppDesc,
+		Long:  longAppDesc,
+		Run:   run,
 	}
+	rootCmd.AddCommand(versionCmd(), infoCmd())
+	initK9sFlags()
+	initK8sFlags()
+	return rootCmd
 }
 
 func run(cmd *cobra.Command, args []string) {
