@@ -48,13 +48,13 @@ NOTE: I'll admit my slackFU is pretty low, so if you're a slack master, feel fre
 
 ## Resolved Bugs/Features
 
-* [Issue #484](https://github.com/kswapd/k12s/issues/484)
-* [Issue #481](https://github.com/kswapd/k12s/issues/481)
-* [Issue #480](https://github.com/kswapd/k12s/issues/480)
-* [Issue #479](https://github.com/kswapd/k12s/issues/479)
-* [Issue #477](https://github.com/kswapd/k12s/issues/477)
-* [Issue #476](https://github.com/kswapd/k12s/issues/476)
-* [Issue #468](https://github.com/kswapd/k12s/issues/468)
+* [Issue #484](https://github.com/kswapd/k13s/issues/484)
+* [Issue #481](https://github.com/kswapd/k13s/issues/481)
+* [Issue #480](https://github.com/kswapd/k13s/issues/480)
+* [Issue #479](https://github.com/kswapd/k13s/issues/479)
+* [Issue #477](https://github.com/kswapd/k13s/issues/477)
+* [Issue #476](https://github.com/kswapd/k13s/issues/476)
+* [Issue #468](https://github.com/kswapd/k13s/issues/468)
 
 ---
 

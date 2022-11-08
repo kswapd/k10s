@@ -26,12 +26,12 @@ Added two new columns to track cpu/memory utilization on metrics-server enabled 
 
 ## Resolved Bugs
 
-+ [Issue #192](https://github.com/kswapd/k12s/issues/192)
-+ [Issue #190](https://github.com/kswapd/k12s/issues/190)
-+ [Issue #189](https://github.com/kswapd/k12s/issues/189)
-+ [Issue #185](https://github.com/kswapd/k12s/issues/185)
-+ [Issue #171](https://github.com/kswapd/k12s/issues/171)
-+ [Issue #155](https://github.com/kswapd/k12s/issues/155)
++ [Issue #192](https://github.com/kswapd/k13s/issues/192)
++ [Issue #190](https://github.com/kswapd/k13s/issues/190)
++ [Issue #189](https://github.com/kswapd/k13s/issues/189)
++ [Issue #185](https://github.com/kswapd/k13s/issues/185)
++ [Issue #171](https://github.com/kswapd/k13s/issues/171)
++ [Issue #155](https://github.com/kswapd/k13s/issues/155)
 
 ---
 

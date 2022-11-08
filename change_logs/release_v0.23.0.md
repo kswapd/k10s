@@ -58,7 +58,7 @@ Not cool enough for Ya? the YAML view now also affords for getting ride of those
 
 ## Best Effort... Not!
 
-In this drop, we've added 2 new columns namely `CPU/R:L` and `MEM/R:L`. These represents the current request:limit specified on containers. They are available in node, pod and container views. While in Pod view, you will need to volunteer them and use the `Go Wide` option `Ctrl-W` to see the columns. These columns will be display by default for Node/Container views. In the node view, they tally the total amount of resources for all pods hosted a given node. If that's inadequate, you can also leverage K9s [Custom Column](https://github.com/kswapd/k12s#resource-custom-columns) feature to volunteer them or not.
+In this drop, we've added 2 new columns namely `CPU/R:L` and `MEM/R:L`. These represents the current request:limit specified on containers. They are available in node, pod and container views. While in Pod view, you will need to volunteer them and use the `Go Wide` option `Ctrl-W` to see the columns. These columns will be display by default for Node/Container views. In the node view, they tally the total amount of resources for all pods hosted a given node. If that's inadequate, you can also leverage K9s [Custom Column](https://github.com/kswapd/k13s#resource-custom-columns) feature to volunteer them or not.
 
 ## Set Container Images
 
@@ -114,34 +114,34 @@ Thank you all for your being fans and supporting K9s!!
 
 ## Resolved Issues/Features
 
-* [Issue #906](https://github.com/kswapd/k12s/issues/906) Print resources in pod view
-* [Issue #903](https://github.com/kswapd/k12s/issues/903) Slow down reconnection rate on auth failures
-* [Issue #901](https://github.com/kswapd/k12s/issues/901) Logs page for any pod/container shows Waiting for logs...
-* [Issue #900](https://github.com/kswapd/k12s/issues/900) Support sort by pending status
-* [Issue #895](https://github.com/kswapd/k12s/issues/895) Wrong highlight position when filtering logs
-* [Issue #892](https://github.com/kswapd/k12s/issues/892) tacit kustomize & kpt support
-* [Issue #889](https://github.com/kswapd/k12s/issues/889) Disable read only config via command line flag
-* [Issue #887](https://github.com/kswapd/k12s/issues/887) Ability to call out a separate program to parse/filter logs
-* [Issue #886](https://github.com/kswapd/k12s/issues/886) Full screen mode or remove borders in YAML view for easy copy/paste
-* [Issue #884](https://github.com/kswapd/k12s/issues/884) Refresh for describe & yaml view
-* [Issue #883](https://github.com/kswapd/k12s/issues/883) View logs quickly scrolls through entire logs when initially loading
-* [Issue #875](https://github.com/kswapd/k12s/issues/875) Lazy filter
-* [Issue #848](https://github.com/kswapd/k12s/issues/848) Support an inverse operator on filtered search
-* [Issue #820](https://github.com/kswapd/k12s/issues/820) Log file spammed despite K9s not running
-* [Issue #794](https://github.com/kswapd/k12s/issues/794) Events view
+* [Issue #906](https://github.com/kswapd/k13s/issues/906) Print resources in pod view
+* [Issue #903](https://github.com/kswapd/k13s/issues/903) Slow down reconnection rate on auth failures
+* [Issue #901](https://github.com/kswapd/k13s/issues/901) Logs page for any pod/container shows Waiting for logs...
+* [Issue #900](https://github.com/kswapd/k13s/issues/900) Support sort by pending status
+* [Issue #895](https://github.com/kswapd/k13s/issues/895) Wrong highlight position when filtering logs
+* [Issue #892](https://github.com/kswapd/k13s/issues/892) tacit kustomize & kpt support
+* [Issue #889](https://github.com/kswapd/k13s/issues/889) Disable read only config via command line flag
+* [Issue #887](https://github.com/kswapd/k13s/issues/887) Ability to call out a separate program to parse/filter logs
+* [Issue #886](https://github.com/kswapd/k13s/issues/886) Full screen mode or remove borders in YAML view for easy copy/paste
+* [Issue #884](https://github.com/kswapd/k13s/issues/884) Refresh for describe & yaml view
+* [Issue #883](https://github.com/kswapd/k13s/issues/883) View logs quickly scrolls through entire logs when initially loading
+* [Issue #875](https://github.com/kswapd/k13s/issues/875) Lazy filter
+* [Issue #848](https://github.com/kswapd/k13s/issues/848) Support an inverse operator on filtered search
+* [Issue #820](https://github.com/kswapd/k13s/issues/820) Log file spammed despite K9s not running
+* [Issue #794](https://github.com/kswapd/k13s/issues/794) Events view
 
 ## Resolved PRs
 
-* [PR #909](https://github.com/kswapd/k12s/pull/909) Add support for inverse filtering
-* [PR #908](https://github.com/kswapd/k12s/pull/908) Remove trailing delta from the scale dialog when replicas are in flux
-* [PR #907](https://github.com/kswapd/k12s/pull/907) Improve docs on sinceSeconds logger option
-* [PR #904](https://github.com/kswapd/k12s/pull/904) PVC `UsedBy` list irrelevant statefulsets
-* [PR #898](https://github.com/kswapd/k12s/pull/898) Use config.CallTimeout in APIClient
-* [PR #897](https://github.com/kswapd/k12s/pull/897) Use DefaultColorer for aliases rendering
-* [PR #896](https://github.com/kswapd/k12s/pull/896) Allow remove crumbs
-* [PR #894](https://github.com/kswapd/k12s/pull/894) Execute plugins and pass context
-* [PR #891](https://github.com/kswapd/k12s/pull/891) Add command to get the latest stable kubectl version and support for KUBECTL_VERSION as Dockerfile ARG
-* [PR #847](https://github.com/kswapd/k12s/pull/847) Add ability to set container images
+* [PR #909](https://github.com/kswapd/k13s/pull/909) Add support for inverse filtering
+* [PR #908](https://github.com/kswapd/k13s/pull/908) Remove trailing delta from the scale dialog when replicas are in flux
+* [PR #907](https://github.com/kswapd/k13s/pull/907) Improve docs on sinceSeconds logger option
+* [PR #904](https://github.com/kswapd/k13s/pull/904) PVC `UsedBy` list irrelevant statefulsets
+* [PR #898](https://github.com/kswapd/k13s/pull/898) Use config.CallTimeout in APIClient
+* [PR #897](https://github.com/kswapd/k13s/pull/897) Use DefaultColorer for aliases rendering
+* [PR #896](https://github.com/kswapd/k13s/pull/896) Allow remove crumbs
+* [PR #894](https://github.com/kswapd/k13s/pull/894) Execute plugins and pass context
+* [PR #891](https://github.com/kswapd/k13s/pull/891) Add command to get the latest stable kubectl version and support for KUBECTL_VERSION as Dockerfile ARG
+* [PR #847](https://github.com/kswapd/k13s/pull/847) Add ability to set container images
 
 ---
 

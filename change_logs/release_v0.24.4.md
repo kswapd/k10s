@@ -37,8 +37,8 @@ If you would like to support us, you can either join our github sponsors or purc
 
 ## Resolved Issues
 
-* [Issue #1056](https://github.com/kswapd/k12s/issues/1056) K9s hangs on edits
-* [Issue #1024](https://github.com/kswapd/k12s/issues/1024) Add Pod Readiness/Nominated cols. With feelings!
+* [Issue #1056](https://github.com/kswapd/k13s/issues/1056) K9s hangs on edits
+* [Issue #1024](https://github.com/kswapd/k13s/issues/1024) Add Pod Readiness/Nominated cols. With feelings!
 
 ## Resolved PRs
 

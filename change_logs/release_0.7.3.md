@@ -17,9 +17,9 @@ Also if you dig this tool, please make some noise on social! [@kitesurfer](https
 
 ## Resolved Bugs/Features
 
-+ [Issue #210](https://github.com/kswapd/k12s/issues/210)
-+ [Issue #209](https://github.com/kswapd/k12s/issues/209)
-+ [Issue #206](https://github.com/kswapd/k12s/issues/206) Thank you @carlowouters!!
++ [Issue #210](https://github.com/kswapd/k13s/issues/210)
++ [Issue #209](https://github.com/kswapd/k13s/issues/209)
++ [Issue #206](https://github.com/kswapd/k13s/issues/206) Thank you @carlowouters!!
 
 
 ---

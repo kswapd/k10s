@@ -49,9 +49,9 @@ A few folks had mentioned the eagerness to port-forward directly from a pod or a
 
 ## Resolved Bugs/Features/PRs
 
-* [Issue #546](https://github.com/kswapd/k12s/issues/546) BREAKING NEWS! Use `t` vs `ctrl-h` now to toggle the K9s header
-* [Issue #541](https://github.com/kswapd/k12s/issues/541)
-* [Issue #227](https://github.com/kswapd/k12s/issues/227)
+* [Issue #546](https://github.com/kswapd/k13s/issues/546) BREAKING NEWS! Use `t` vs `ctrl-h` now to toggle the K9s header
+* [Issue #541](https://github.com/kswapd/k13s/issues/541)
+* [Issue #227](https://github.com/kswapd/k13s/issues/227)
 
 ---
 

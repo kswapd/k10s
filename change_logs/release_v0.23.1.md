@@ -18,7 +18,7 @@ On Slack? Please join us [K9slackers](https://join.slack.com/t/k9sers/shared_inv
 
 ## Resolved Issues/Features
 
-* [Issue #918](https://github.com/kswapd/k12s/issues/918) NPE setting image. Totally on me ;(
+* [Issue #918](https://github.com/kswapd/k13s/issues/918) NPE setting image. Totally on me ;(
 
 ## Resolved PRs
 

@@ -16,7 +16,7 @@ Maintenance Release!
 
 ## Resolved Bugs/Features/PRs
 
-* [Issue #281](https://github.com/kswapd/k12s/issues/281)
+* [Issue #281](https://github.com/kswapd/k13s/issues/281)
 
 ---
 

@@ -18,8 +18,8 @@ Maintenance Release!
 
 ## Resolved Bugs/Features
 
-* [Issue #469](https://github.com/kswapd/k12s/issues/469)
-* [Issue #468](https://github.com/kswapd/k12s/issues/468)
+* [Issue #469](https://github.com/kswapd/k13s/issues/469)
+* [Issue #468](https://github.com/kswapd/k13s/issues/468)
 
 ---
 

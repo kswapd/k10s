@@ -16,7 +16,7 @@ On Slack? Please join us [K9slackers](https://join.slack.com/t/k9sers/shared_inv
 
 ## Resolved Issues
 
-* [Issue #1123](https://github.com/kswapd/k12s/issues/1123) Cannotresponse to keyboard strike after exit pod shell in windows 10
+* [Issue #1123](https://github.com/kswapd/k13s/issues/1123) Cannotresponse to keyboard strike after exit pod shell in windows 10
 
 ---
 

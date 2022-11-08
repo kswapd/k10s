@@ -53,8 +53,8 @@ Thank you so much for your support and awesome suggestions to make K9s better!!
 
 ## Resolved Bugs
 
-+ RBAC long subject names [Issue #143](https://github.com/kswapd/k12s/issues/143)
-+ Support HPA v1 [Issue #140](https://github.com/kswapd/k12s/issues/140)
++ RBAC long subject names [Issue #143](https://github.com/kswapd/k13s/issues/143)
++ Support HPA v1 [Issue #140](https://github.com/kswapd/k13s/issues/140)
   > NOTE: Describe on v1 HPA is busted just like it is when running kubectl v1.13
   > against an older cluster.
 

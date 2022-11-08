@@ -37,10 +37,10 @@ k9s:
 
 ## Resolved Bugs/Features/PRs
 
-- [Issue #604](https://github.com/kswapd/k12s/issues/604)
-- [Issue #601](https://github.com/kswapd/k12s/issues/601) Thank you [Christian Vent](https://github.com/christian-vent)
-- [Issue #598](https://github.com/kswapd/k12s/issues/598)  `Ctrl-l` will now trigger the benchmarking toggle!
-- [Issue #593](https://github.com/kswapd/k12s/issues/593)
+- [Issue #604](https://github.com/kswapd/k13s/issues/604)
+- [Issue #601](https://github.com/kswapd/k13s/issues/601) Thank you [Christian Vent](https://github.com/christian-vent)
+- [Issue #598](https://github.com/kswapd/k13s/issues/598)  `Ctrl-l` will now trigger the benchmarking toggle!
+- [Issue #593](https://github.com/kswapd/k13s/issues/593)
 
 ---
 

@@ -61,10 +61,10 @@ There has been quick a bit of surgery going on with this drop, so this release c
 
 ## Resolved Bugs/Features/PRs
 
-- [Issue #734](https://github.com/kswapd/k12s/issues/734)
-- [Issue #733](https://github.com/kswapd/k12s/issues/733)
-- [Issue #716](https://github.com/kswapd/k12s/issues/716)
-- [Issue #693](https://github.com/kswapd/k12s/issues/693)
+- [Issue #734](https://github.com/kswapd/k13s/issues/734)
+- [Issue #733](https://github.com/kswapd/k13s/issues/733)
+- [Issue #716](https://github.com/kswapd/k13s/issues/716)
+- [Issue #693](https://github.com/kswapd/k13s/issues/693)
 
 ---
 

@@ -18,4 +18,4 @@ Thank you so much for your support!!
 
 ## Resolved Bugs
 
-* [Issue #79](https://github.com/kswapd/k12s/issues/79)
+* [Issue #79](https://github.com/kswapd/k13s/issues/79)

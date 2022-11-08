@@ -33,8 +33,8 @@ k9s:
 
 ## Resolved Bugs/Features/PRs
 
-* [Issue #539](https://github.com/kswapd/k12s/issues/539)
-* [Issue #538](https://github.com/kswapd/k12s/issues/538) Fingers crossed!
+* [Issue #539](https://github.com/kswapd/k13s/issues/539)
+* [Issue #538](https://github.com/kswapd/k13s/issues/538) Fingers crossed!
 
 ---
 

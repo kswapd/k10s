@@ -19,7 +19,7 @@ Please upgrade to 0.7.5. Thank you for your patience and support!
 
 ## Resolved Bugs/Features
 
-+ [Issue #211](https://github.com/kswapd/k12s/issues/210)
++ [Issue #211](https://github.com/kswapd/k13s/issues/210)
 
 
 ---

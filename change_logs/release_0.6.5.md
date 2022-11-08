@@ -20,8 +20,8 @@ Also if you dig this tool, please make some noise on social! [@kitesurfer](https
 
 ## Resolved Bugs
 
-+ [Issue #178](https://github.com/kswapd/k12s/issues/178)
-+ [Issue #179](https://github.com/kswapd/k12s/issues/179)
++ [Issue #178](https://github.com/kswapd/k13s/issues/178)
++ [Issue #179](https://github.com/kswapd/k13s/issues/179)
 
 ---
 

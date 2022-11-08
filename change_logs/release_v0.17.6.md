@@ -21,12 +21,12 @@ As of this drop, you can now perform direct cluster nodes maintenance by leverag
 
 ## Resolved Bugs/Features/PRs
 
-- [Issue #612](https://github.com/kswapd/k12s/issues/612)
-- [Issue #608](https://github.com/kswapd/k12s/issues/608)
-- [Issue #606](https://github.com/kswapd/k12s/issues/606)
-- [Issue #237](https://github.com/kswapd/k12s/issues/237)
-- [PR #607](https://github.com/kswapd/k12s/pull/607) ATTA Boy! [Jeff Widman](https://github.com/jeffwidman)
-- [PR #570](https://github.com/kswapd/k12s/pull/570) Thank you [Ludovico Rosso](https://github.com/ludusrusso)!
+- [Issue #612](https://github.com/kswapd/k13s/issues/612)
+- [Issue #608](https://github.com/kswapd/k13s/issues/608)
+- [Issue #606](https://github.com/kswapd/k13s/issues/606)
+- [Issue #237](https://github.com/kswapd/k13s/issues/237)
+- [PR #607](https://github.com/kswapd/k13s/pull/607) ATTA Boy! [Jeff Widman](https://github.com/jeffwidman)
+- [PR #570](https://github.com/kswapd/k13s/pull/570) Thank you [Ludovico Rosso](https://github.com/ludusrusso)!
 
 ---
 

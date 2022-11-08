@@ -16,8 +16,8 @@ On Slack? Please join us [K9slackers](https://join.slack.com/t/k9sers/shared_inv
 
 ## Resolved Bugs/Features/PRs
 
-- [Issue #752](https://github.com/kswapd/k12s/issues/752)
-- [Issue #677](https://github.com/kswapd/k12s/issues/677) Once again with feelings this time ;(
+- [Issue #752](https://github.com/kswapd/k13s/issues/752)
+- [Issue #677](https://github.com/kswapd/k13s/issues/677) Once again with feelings this time ;(
 
 ---
 

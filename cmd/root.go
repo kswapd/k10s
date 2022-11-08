@@ -51,7 +51,18 @@ func Execute() {
 		log.Panic().Err(err)
 	}
 }
-
+func ExportExternalCmd() *cobra.Command {
+	rootCmd := &cobra.Command{
+		Use:   appName,
+		Short: shortAppDesc,
+		Long:  longAppDesc,
+		Run:   run,
+	}
+	rootCmd.AddCommand(versionCmd(), infoCmd())
+	initK9sFlags()
+	initK8sFlags()
+	return rootCmd
+}
 func run(cmd *cobra.Command, args []string) {
 	config.EnsurePath(*k9sFlags.LogFile, config.DefaultDirMod)
 	mod := os.O_CREATE | os.O_APPEND | os.O_WRONLY

@@ -18,8 +18,8 @@ Meow! Looks like v0.7.9 hosed the logger ;) Sorry!!
 
 ## Resolved Bugs/Features
 
-+ [Issue #245](https://github.com/kswapd/k12s/issues/245)
-+ [Issue #231](https://github.com/kswapd/k12s/issues/231)
++ [Issue #245](https://github.com/kswapd/k13s/issues/245)
++ [Issue #231](https://github.com/kswapd/k13s/issues/231)
 
 ---
 
