@@ -1,10 +1,10 @@
 package view
 
 import (
-	"github.com/kswapd/k12s/internal/client"
-	"github.com/kswapd/k12s/internal/dao"
-	"github.com/kswapd/k12s/internal/render"
-	"github.com/kswapd/k12s/internal/ui"
+	"github.com/kswapd/k13s/internal/client"
+	"github.com/kswapd/k13s/internal/dao"
+	"github.com/kswapd/k13s/internal/render"
+	"github.com/kswapd/k13s/internal/ui"
 )
 
 // DaemonSet represents a daemon set custom viewer.

@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/kswapd/k12s/internal/render"
+	"github.com/kswapd/k13s/internal/render"
 	"k8s.io/apimachinery/pkg/api/resource"
 )
 

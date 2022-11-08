@@ -6,8 +6,8 @@ import (
 	"path/filepath"
 
 	"github.com/fsnotify/fsnotify"
-	"github.com/kswapd/k12s/internal/config"
-	"github.com/kswapd/k12s/internal/render"
+	"github.com/kswapd/k13s/internal/config"
+	"github.com/kswapd/k13s/internal/render"
 	"github.com/rs/zerolog/log"
 )
 

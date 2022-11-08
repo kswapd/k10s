@@ -2,8 +2,8 @@ package dialog
 
 import (
 	"github.com/derailed/tview"
-	"github.com/kswapd/k12s/internal/config"
-	"github.com/kswapd/k12s/internal/ui"
+	"github.com/kswapd/k13s/internal/config"
+	"github.com/kswapd/k13s/internal/ui"
 )
 
 const confirmKey = "confirm"

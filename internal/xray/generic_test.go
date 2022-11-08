@@ -4,8 +4,8 @@ import (
 	"context"
 	"testing"
 
-	"github.com/kswapd/k12s/internal"
-	"github.com/kswapd/k12s/internal/xray"
+	"github.com/kswapd/k13s/internal"
+	"github.com/kswapd/k13s/internal/xray"
 	"github.com/stretchr/testify/assert"
 	metav1beta1 "k8s.io/apimachinery/pkg/apis/meta/v1beta1"
 )

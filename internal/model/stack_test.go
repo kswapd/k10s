@@ -6,7 +6,7 @@ import (
 
 	"github.com/derailed/tview"
 	"github.com/gdamore/tcell/v2"
-	"github.com/kswapd/k12s/internal/model"
+	"github.com/kswapd/k13s/internal/model"
 	"github.com/rs/zerolog"
 	"github.com/stretchr/testify/assert"
 )

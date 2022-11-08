@@ -3,8 +3,8 @@ package view
 import (
 	"context"
 
-	"github.com/kswapd/k12s/internal/model"
-	"github.com/kswapd/k12s/internal/ui"
+	"github.com/kswapd/k13s/internal/model"
+	"github.com/kswapd/k13s/internal/ui"
 )
 
 // PageStack represents a stack of pages.

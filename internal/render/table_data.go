@@ -3,7 +3,7 @@ package render
 import (
 	"sync"
 
-	"github.com/kswapd/k12s/internal/client"
+	"github.com/kswapd/k13s/internal/client"
 )
 
 // TableData tracks a K8s resource for tabular display.

@@ -3,7 +3,7 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/kswapd/k12s/internal/color"
+	"github.com/kswapd/k13s/internal/color"
 	"github.com/spf13/cobra"
 )
 

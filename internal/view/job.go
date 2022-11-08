@@ -1,9 +1,9 @@
 package view
 
 import (
-	"github.com/kswapd/k12s/internal/client"
-	"github.com/kswapd/k12s/internal/render"
-	"github.com/kswapd/k12s/internal/ui"
+	"github.com/kswapd/k13s/internal/client"
+	"github.com/kswapd/k13s/internal/render"
+	"github.com/kswapd/k13s/internal/ui"
 	batchv1 "k8s.io/api/batch/v1"
 	"k8s.io/apimachinery/pkg/apis/meta/v1/unstructured"
 	"k8s.io/apimachinery/pkg/labels"

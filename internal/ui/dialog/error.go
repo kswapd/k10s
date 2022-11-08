@@ -6,8 +6,8 @@ import (
 
 	"github.com/derailed/tview"
 	"github.com/gdamore/tcell/v2"
-	"github.com/kswapd/k12s/internal/config"
-	"github.com/kswapd/k12s/internal/ui"
+	"github.com/kswapd/k13s/internal/config"
+	"github.com/kswapd/k13s/internal/ui"
 )
 
 // ShowConfirm pops a confirmation dialog.

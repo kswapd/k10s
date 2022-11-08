@@ -6,7 +6,7 @@ import (
 	"strings"
 
 	"github.com/derailed/popeye/pkg/config"
-	"github.com/kswapd/k12s/internal/render"
+	"github.com/kswapd/k13s/internal/render"
 )
 
 // Section represents an xray renderer.

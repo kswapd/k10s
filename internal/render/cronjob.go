@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/kswapd/k12s/internal/client"
+	"github.com/kswapd/k13s/internal/client"
 	batchv1 "k8s.io/api/batch/v1"
 	v1 "k8s.io/api/core/v1"
 	"k8s.io/apimachinery/pkg/apis/meta/v1/unstructured"

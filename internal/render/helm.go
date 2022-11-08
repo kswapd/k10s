@@ -5,7 +5,7 @@ import (
 	"strconv"
 
 	"github.com/gdamore/tcell/v2"
-	"github.com/kswapd/k12s/internal/client"
+	"github.com/kswapd/k13s/internal/client"
 	"helm.sh/helm/v3/pkg/release"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	"k8s.io/apimachinery/pkg/runtime"

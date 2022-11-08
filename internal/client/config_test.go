@@ -4,7 +4,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/kswapd/k12s/internal/client"
+	"github.com/kswapd/k13s/internal/client"
 	"github.com/rs/zerolog"
 	"github.com/stretchr/testify/assert"
 	v1 "k8s.io/api/core/v1"

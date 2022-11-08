@@ -7,9 +7,9 @@ import (
 	"strings"
 
 	"github.com/gdamore/tcell/v2"
-	"github.com/kswapd/k12s/internal/dao"
-	"github.com/kswapd/k12s/internal/ui"
-	"github.com/kswapd/k12s/internal/ui/dialog"
+	"github.com/kswapd/k13s/internal/dao"
+	"github.com/kswapd/k13s/internal/ui"
+	"github.com/kswapd/k13s/internal/ui/dialog"
 )
 
 // RestartExtender represents a restartable resource.

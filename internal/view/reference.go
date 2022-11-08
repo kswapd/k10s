@@ -4,9 +4,9 @@ import (
 	"context"
 
 	"github.com/gdamore/tcell/v2"
-	"github.com/kswapd/k12s/internal/client"
-	"github.com/kswapd/k12s/internal/render"
-	"github.com/kswapd/k12s/internal/ui"
+	"github.com/kswapd/k13s/internal/client"
+	"github.com/kswapd/k13s/internal/render"
+	"github.com/kswapd/k13s/internal/ui"
 )
 
 // Reference represents resource references.

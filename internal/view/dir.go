@@ -9,12 +9,12 @@ import (
 	"strings"
 
 	"github.com/gdamore/tcell/v2"
-	"github.com/kswapd/k12s/internal"
-	"github.com/kswapd/k12s/internal/client"
-	"github.com/kswapd/k12s/internal/config"
-	"github.com/kswapd/k12s/internal/render"
-	"github.com/kswapd/k12s/internal/ui"
-	"github.com/kswapd/k12s/internal/ui/dialog"
+	"github.com/kswapd/k13s/internal"
+	"github.com/kswapd/k13s/internal/client"
+	"github.com/kswapd/k13s/internal/config"
+	"github.com/kswapd/k13s/internal/render"
+	"github.com/kswapd/k13s/internal/ui"
+	"github.com/kswapd/k13s/internal/ui/dialog"
 )
 
 const (

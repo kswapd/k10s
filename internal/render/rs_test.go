@@ -3,7 +3,7 @@ package render_test
 import (
 	"testing"
 
-	"github.com/kswapd/k12s/internal/render"
+	"github.com/kswapd/k13s/internal/render"
 	"github.com/stretchr/testify/assert"
 )
 

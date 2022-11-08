@@ -5,7 +5,7 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/kswapd/k12s/internal/client"
+	"github.com/kswapd/k13s/internal/client"
 	"github.com/stretchr/testify/assert"
 	"k8s.io/apimachinery/pkg/runtime/schema"
 )

@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/gdamore/tcell/v2"
-	"github.com/kswapd/k12s/internal/render"
+	"github.com/kswapd/k13s/internal/render"
 	"github.com/stretchr/testify/assert"
 	v1 "k8s.io/api/core/v1"
 	res "k8s.io/apimachinery/pkg/api/resource"

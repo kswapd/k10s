@@ -3,7 +3,7 @@ package view_test
 import (
 	"testing"
 
-	"github.com/kswapd/k12s/internal/view"
+	"github.com/kswapd/k13s/internal/view"
 	"github.com/stretchr/testify/assert"
 )
 

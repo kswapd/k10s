@@ -3,10 +3,10 @@ package view
 import (
 	"errors"
 
-	"github.com/kswapd/k12s/internal/client"
-	"github.com/kswapd/k12s/internal/dao"
-	"github.com/kswapd/k12s/internal/render"
-	"github.com/kswapd/k12s/internal/ui"
+	"github.com/kswapd/k13s/internal/client"
+	"github.com/kswapd/k13s/internal/dao"
+	"github.com/kswapd/k13s/internal/render"
+	"github.com/kswapd/k13s/internal/ui"
 	appsv1 "k8s.io/api/apps/v1"
 )
 

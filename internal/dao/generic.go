@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/kswapd/k12s/internal"
-	"github.com/kswapd/k12s/internal/client"
+	"github.com/kswapd/k13s/internal"
+	"github.com/kswapd/k13s/internal/client"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	"k8s.io/apimachinery/pkg/apis/meta/v1/unstructured"
 	"k8s.io/apimachinery/pkg/runtime"

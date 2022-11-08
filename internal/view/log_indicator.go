@@ -4,7 +4,7 @@ import (
 	"sync/atomic"
 
 	"github.com/derailed/tview"
-	"github.com/kswapd/k12s/internal/config"
+	"github.com/kswapd/k13s/internal/config"
 )
 
 const spacer = "     "

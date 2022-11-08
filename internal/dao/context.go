@@ -3,8 +3,8 @@ package dao
 import (
 	"context"
 
-	"github.com/kswapd/k12s/internal/client"
-	"github.com/kswapd/k12s/internal/render"
+	"github.com/kswapd/k13s/internal/client"
+	"github.com/kswapd/k13s/internal/render"
 	"github.com/rs/zerolog/log"
 	"k8s.io/apimachinery/pkg/runtime"
 )

@@ -5,7 +5,7 @@ import (
 	"strconv"
 
 	"github.com/derailed/tview"
-	"github.com/kswapd/k12s/internal/client"
+	"github.com/kswapd/k13s/internal/client"
 	v1beta1 "k8s.io/api/policy/v1beta1"
 	"k8s.io/apimachinery/pkg/apis/meta/v1/unstructured"
 	"k8s.io/apimachinery/pkg/runtime"

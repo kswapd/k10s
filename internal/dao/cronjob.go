@@ -5,7 +5,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/kswapd/k12s/internal/client"
+	"github.com/kswapd/k13s/internal/client"
 	"github.com/rs/zerolog/log"
 	batchv1 "k8s.io/api/batch/v1"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"

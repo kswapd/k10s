@@ -7,7 +7,7 @@ import (
 
 	"github.com/derailed/tview"
 	"github.com/gdamore/tcell/v2"
-	"github.com/kswapd/k12s/internal/client"
+	"github.com/kswapd/k13s/internal/client"
 	v1 "k8s.io/api/core/v1"
 	"k8s.io/apimachinery/pkg/api/resource"
 	"k8s.io/apimachinery/pkg/apis/meta/v1/unstructured"

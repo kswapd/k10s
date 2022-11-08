@@ -8,11 +8,11 @@ import (
 	"testing"
 
 	"github.com/derailed/tview"
-	"github.com/kswapd/k12s/internal/client"
-	"github.com/kswapd/k12s/internal/config"
-	"github.com/kswapd/k12s/internal/dao"
-	"github.com/kswapd/k12s/internal/ui"
-	"github.com/kswapd/k12s/internal/view"
+	"github.com/kswapd/k13s/internal/client"
+	"github.com/kswapd/k13s/internal/config"
+	"github.com/kswapd/k13s/internal/dao"
+	"github.com/kswapd/k13s/internal/ui"
+	"github.com/kswapd/k13s/internal/view"
 	"github.com/stretchr/testify/assert"
 )
 

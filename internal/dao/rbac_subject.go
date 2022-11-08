@@ -4,8 +4,8 @@ import (
 	"context"
 	"errors"
 
-	"github.com/kswapd/k12s/internal"
-	"github.com/kswapd/k12s/internal/render"
+	"github.com/kswapd/k13s/internal"
+	"github.com/kswapd/k13s/internal/render"
 	"k8s.io/apimachinery/pkg/runtime"
 )
 

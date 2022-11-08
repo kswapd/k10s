@@ -6,12 +6,12 @@ import (
 	"fmt"
 
 	"github.com/gdamore/tcell/v2"
-	"github.com/kswapd/k12s/internal"
-	"github.com/kswapd/k12s/internal/client"
-	"github.com/kswapd/k12s/internal/dao"
-	"github.com/kswapd/k12s/internal/port"
-	"github.com/kswapd/k12s/internal/render"
-	"github.com/kswapd/k12s/internal/ui"
+	"github.com/kswapd/k13s/internal"
+	"github.com/kswapd/k13s/internal/client"
+	"github.com/kswapd/k13s/internal/dao"
+	"github.com/kswapd/k13s/internal/port"
+	"github.com/kswapd/k13s/internal/render"
+	"github.com/kswapd/k13s/internal/ui"
 	"github.com/rs/zerolog/log"
 	v1 "k8s.io/api/core/v1"
 )

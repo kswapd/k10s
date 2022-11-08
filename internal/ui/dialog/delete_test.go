@@ -4,8 +4,8 @@ import (
 	"testing"
 
 	"github.com/derailed/tview"
-	"github.com/kswapd/k12s/internal/config"
-	"github.com/kswapd/k12s/internal/ui"
+	"github.com/kswapd/k13s/internal/config"
+	"github.com/kswapd/k13s/internal/ui"
 	"github.com/stretchr/testify/assert"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 )
