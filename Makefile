@@ -1,5 +1,5 @@
 GO_FLAGS   ?=
-NAME       := k9s
+NAME       := k11s
 OUTPUT_BIN ?= execs/${NAME}
 PACKAGE    := github.com/derailed/$(NAME)
 GIT_REV    ?= $(shell git rev-parse --short HEAD)
