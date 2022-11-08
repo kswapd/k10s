@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"context"
 	"fmt"
-	"github.com/derailed/k9s/internal/dao"
+	"github.com/kswapd/k9s/internal/dao"
 	"io"
 	"net/http"
 	"os"
@@ -12,8 +12,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/config"
+	"github.com/kswapd/k9s/internal/client"
+	"github.com/kswapd/k9s/internal/config"
 	"github.com/rakyll/hey/requester"
 	"github.com/rs/zerolog/log"
 )
@@ -24,7 +24,6 @@ const (
 	benchFmat    = "%s_%s_%d.txt"
 	k9sUA        = "k9s/"
 )
-
 
 var (
 	// K9sBenchDir directory to store K9s Benchmark files.

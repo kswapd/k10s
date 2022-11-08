@@ -8,7 +8,7 @@ package render
 // 	"strconv"
 // 	"time"
 
-// 	"github.com/derailed/k9s/internal/client"
+// 	"github.com/kswapd/k9s/internal/client"
 // 	"github.com/derailed/tview"
 // 	"github.com/gdamore/tcell/v2"
 

@@ -6,9 +6,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/derailed/k9s/internal"
-	"github.com/derailed/k9s/internal/dao"
-	"github.com/derailed/k9s/internal/health"
+	"github.com/kswapd/k9s/internal"
+	"github.com/kswapd/k9s/internal/dao"
+	"github.com/kswapd/k9s/internal/health"
 	"github.com/rs/zerolog/log"
 	"k8s.io/apimachinery/pkg/runtime"
 )

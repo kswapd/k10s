@@ -7,9 +7,9 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/dao"
-	"github.com/derailed/k9s/internal/model"
+	"github.com/kswapd/k9s/internal/client"
+	"github.com/kswapd/k9s/internal/dao"
+	"github.com/kswapd/k9s/internal/model"
 	"github.com/rs/zerolog/log"
 )
 

@@ -10,14 +10,14 @@ import (
 	"sync"
 	"time"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/color"
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/dao"
-	"github.com/derailed/k9s/internal/model"
-	"github.com/derailed/k9s/internal/ui"
 	"github.com/derailed/tview"
 	"github.com/gdamore/tcell/v2"
+	"github.com/kswapd/k9s/internal/client"
+	"github.com/kswapd/k9s/internal/color"
+	"github.com/kswapd/k9s/internal/config"
+	"github.com/kswapd/k9s/internal/dao"
+	"github.com/kswapd/k9s/internal/model"
+	"github.com/kswapd/k9s/internal/ui"
 	"github.com/rs/zerolog/log"
 )
 

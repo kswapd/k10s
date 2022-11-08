@@ -18,7 +18,7 @@ Maintenance release!
 
 ## Resolved Bugs/Features
 
-* [Issue #460](https://github.com/derailed/k9s/issues/460)
+* [Issue #460](https://github.com/kswapd/k9s/issues/460)
 
 ---
 

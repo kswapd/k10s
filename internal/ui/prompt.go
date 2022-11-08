@@ -3,8 +3,8 @@ package ui
 import (
 	"fmt"
 
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/model"
+	"github.com/kswapd/k9s/internal/config"
+	"github.com/kswapd/k9s/internal/model"
 	"github.com/derailed/tview"
 	"github.com/gdamore/tcell/v2"
 )

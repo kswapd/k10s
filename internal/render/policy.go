@@ -3,8 +3,8 @@ package render
 import (
 	"fmt"
 
-	"github.com/derailed/k9s/internal/client"
 	"github.com/gdamore/tcell/v2"
+	"github.com/kswapd/k9s/internal/client"
 	"github.com/rs/zerolog/log"
 	"k8s.io/apimachinery/pkg/runtime"
 	"k8s.io/apimachinery/pkg/runtime/schema"

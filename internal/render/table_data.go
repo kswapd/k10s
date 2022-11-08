@@ -3,7 +3,7 @@ package render
 import (
 	"sync"
 
-	"github.com/derailed/k9s/internal/client"
+	"github.com/kswapd/k9s/internal/client"
 )
 
 // TableData tracks a K8s resource for tabular display.

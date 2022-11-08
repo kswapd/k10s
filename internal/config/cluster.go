@@ -1,6 +1,6 @@
 package config
 
-import "github.com/derailed/k9s/internal/client"
+import "github.com/kswapd/k9s/internal/client"
 
 // DefaultPFAddress specifies the default PortForward host address.
 const DefaultPFAddress = "localhost"

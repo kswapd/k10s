@@ -7,7 +7,7 @@ import (
 	"github.com/rs/zerolog/log"
 	"strings"
 
-	"github.com/derailed/k9s/internal/client"
+	"github.com/kswapd/k9s/internal/client"
 	metav1beta1 "k8s.io/apimachinery/pkg/apis/meta/v1beta1"
 )
 

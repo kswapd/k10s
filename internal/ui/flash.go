@@ -3,8 +3,8 @@ package ui
 import (
 	"context"
 
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/model"
+	"github.com/kswapd/k9s/internal/config"
+	"github.com/kswapd/k9s/internal/model"
 	"github.com/derailed/tview"
 	"github.com/gdamore/tcell/v2"
 	"github.com/rs/zerolog/log"

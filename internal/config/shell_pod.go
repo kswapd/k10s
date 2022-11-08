@@ -1,7 +1,7 @@
 package config
 
 import (
-	"github.com/derailed/k9s/internal/client"
+	"github.com/kswapd/k9s/internal/client"
 	v1 "k8s.io/api/core/v1"
 )
 

@@ -3,8 +3,8 @@ package view
 import (
 	"sync/atomic"
 
-	"github.com/derailed/k9s/internal/config"
 	"github.com/derailed/tview"
+	"github.com/kswapd/k9s/internal/config"
 )
 
 const spacer = "     "
