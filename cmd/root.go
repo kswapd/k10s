@@ -17,9 +17,9 @@ import (
 )
 
 const (
-	appName      = "k9s"
+	appName      = "ui"
 	shortAppDesc = "A graphical CLI for your Kubernetes cluster management."
-	longAppDesc  = "K9s is a CLI to view and manage your Kubernetes clusters."
+	longAppDesc  = "CLI to view and manage your Kubernetes clusters."
 )
 
 var _ config.KubeSettings = (*client.Config)(nil)
