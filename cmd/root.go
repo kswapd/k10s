@@ -52,7 +52,7 @@ func Execute() {
 	}
 }
 func ExportExternalCmd() *cobra.Command {
-	rootCmd := &cobra.Command{
+	/*rootCmd := &cobra.Command{
 		Use:   appName,
 		Short: shortAppDesc,
 		Long:  longAppDesc,
@@ -60,7 +60,7 @@ func ExportExternalCmd() *cobra.Command {
 	}
 	rootCmd.AddCommand(versionCmd(), infoCmd())
 	initK9sFlags()
-	initK8sFlags()
+	initK8sFlags()*/
 	return rootCmd
 }
 func run(cmd *cobra.Command, args []string) {
