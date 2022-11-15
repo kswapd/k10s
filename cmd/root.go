@@ -1,6 +1,7 @@
 package cmd
 
 import (
+	"flag"
 	"fmt"
 	"os"
 	"runtime/debug"
@@ -14,6 +15,7 @@ import (
 	"github.com/rs/zerolog/log"
 	"github.com/spf13/cobra"
 	"k8s.io/cli-runtime/pkg/genericclioptions"
+	klog "k8s.io/klog/v2"
 )
 
 const (
@@ -64,8 +66,27 @@ func ExportExternalCmd() *cobra.Command {
 	return rootCmd
 }
 
+func initKlog() {
+	var vflag flag.FlagSet
+	klog.InitFlags(&vflag)
+	if err := vflag.Set("logtostderr", "false"); err != nil {
+		panic(err)
+	}
+	if err := vflag.Set("alsologtostderr", "false"); err != nil {
+		panic(err)
+	}
+	if err := vflag.Set("stderrthreshold", "fatal"); err != nil {
+		panic(err)
+	}
+	if err := vflag.Set("v", "0"); err != nil {
+		panic(err)
+	}
+	klog.ClearLogger()
+}
+
 func run(cmd *cobra.Command, args []string) {
-	
+
+	initKlog()
 	config.EnsurePath(*k9sFlags.LogFile, config.DefaultDirMod)
 	mod := os.O_CREATE | os.O_APPEND | os.O_WRONLY
 	file, err := os.OpenFile(*k9sFlags.LogFile, mod, config.DefaultFileMod)
