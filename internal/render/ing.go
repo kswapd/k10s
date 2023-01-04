@@ -5,7 +5,6 @@ import (
 	"strings"
 
 	"github.com/kswapd/k13s/internal/client"
-	v1 "k8s.io/api/core/v1"
 	netv1 "k8s.io/api/networking/v1"
 	"k8s.io/apimachinery/pkg/apis/meta/v1/unstructured"
 	"k8s.io/apimachinery/pkg/runtime"
@@ -63,7 +62,7 @@ func (i Ingress) Render(o interface{}, ns string, r *Row) error {
 // ----------------------------------------------------------------------------
 // Helpers...
 
-func toAddress(lbs v1.LoadBalancerStatus) string {
+func toAddress(lbs netv1.IngressLoadBalancerStatus) string {
 	ings := lbs.Ingress
 	res := make([]string, 0, len(ings))
 	for _, lb := range ings {

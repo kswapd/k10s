@@ -5,6 +5,7 @@
 cov.out
 execs
 k9s
+k13s
 /k8s
 dist
 notes
