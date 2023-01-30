@@ -9,18 +9,18 @@ require (
 	github.com/atotto/clipboard v0.1.4
 	github.com/cenkalti/backoff/v4 v4.1.3
 	github.com/derailed/popeye v0.10.1
-	github.com/derailed/tview v0.7.1
+	github.com/derailed/tview v0.8.0
 	github.com/fatih/color v1.13.0
 	github.com/fsnotify/fsnotify v1.6.0
 	github.com/fvbommel/sortorder v1.0.2
-	github.com/gdamore/tcell/v2 v2.5.2
+	github.com/gdamore/tcell/v2 v2.5.4
 	github.com/mattn/go-colorable v0.1.13
 	github.com/mattn/go-runewidth v0.0.14
 	github.com/rakyll/hey v0.1.4
 	github.com/rs/zerolog v1.28.0
 	github.com/sahilm/fuzzy v0.1.0
 	github.com/spf13/cobra v1.6.0
-	golang.org/x/text v0.4.0
+	golang.org/x/text v0.5.0
 	gopkg.in/yaml.v2 v2.4.0
 	helm.sh/helm/v3 v3.10.1
 	k8s.io/api v0.25.3
