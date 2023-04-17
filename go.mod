@@ -7,7 +7,7 @@ replace github.com/gdamore/tcell/v2 => github.com/derailed/tcell/v2 v2.3.1-rc.2
 require (
 	github.com/adrg/xdg v0.4.0
 	github.com/atotto/clipboard v0.1.4
-	github.com/cenkalti/backoff/v4 v4.1.3
+	github.com/cenkalti/backoff/v4 v4.2.1
 	github.com/derailed/popeye v0.10.1
 	github.com/derailed/tview v0.7.1
 	github.com/fatih/color v1.13.0
